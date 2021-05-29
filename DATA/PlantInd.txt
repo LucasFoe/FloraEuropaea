@@ -1,0 +1,2394 @@
+"Abies Miller, 1: 37";1
+"Abutilon Miller, 2: 254";2
+"Acacia Miller, 2: 84";3
+"Acaena Mutis ex L., 2: 34";4
+"Acalypha L., 2: 212";5
+"ACANTHACEAE, 3: 283";6
+"Acantholimon Boiss., 3: 30";7
+"Acanthus L., 3: 283";8
+"Acer L., 2: 238";9
+"ACERACEAE, 2: 237";10
+"Aceras R. Br., 5: 342";11
+"Achillea L., 4: 159";12
+"Achnatherum Beauv., 5: 252";13
+"Achroanthes Rafin., 5";14
+"Achyranthes L., 1: 132";15
+"Achyrophorus Adanson, 4";16
+"Acinos Miller, 3: 165";17
+"Aconitum L., 1: 254";18
+"Acorellus Palla, 5";19
+"Acorus L., 5: 268";20
+"Acroptilon Cass., 4: 254";21
+"Acrostichum thalictroides L., 1: 11";22
+"Actaea L., 1: 254";23
+"Actinocyclus Klotzsch, 3";24
+"Adarianta Knoche, 2";25
+"Adenocarpus DC., 2: 104";26
+"Adenophora Besser, 4: 93";27
+"Adenostyles Cass., 4: 189";28
+"ADIANTACEAE, 1: 11";29
+"Adiantum L., 1: 13";30
+"Adonis L., 1: 267";31
+"Adoxa L., 4: 48";32
+"ADOXACEAE, 4: 48";33
+"Aegialophila Boiss. & Heldr., 4";34
+"Aegilops L., 5: 200";35
+"Aegopodium L., 2: 333";36
+"Aeluropus Trin., 5: 255";37
+"Aeonium Webb & Berth., 1: 429";38
+"Aera auct., 5";39
+"Aesculus L., 2: 240";40
+"Aetheorhiza Cass., 4: 326";41
+"Aethionema R. Br., 1: 388";42
+"Aethusa L., 2: 339";43
+"Agapanthus L'Her., 5: 49";44
+"AGAVACEAE, 5: 74";45
+"Agave L., 5: 74";46
+"Ageratum L, 4: 109";47
+"Agrimonia L., 2: 32";48
+"Agriophyllum Bieb. ex C.A.Meyer, 1: 120";49
+"x Agrohordeum Camus, 5";50
+"x Agropogon P. Fourn., 5: 236";51
+"Agropyron Gaertner, 5: 198";52
+"Agrostemma L., 1: 190";53
+"Agrostis L., 5: 232";54
+"Aichryson Webb & Berth., 1: 429";55
+"Ailanthus Desf., 2: 230";56
+"Ainsworthia Boiss., 2: 367";57
+"Aira L., 5: 227";58
+"Airopsis Desv., 5: 228";59
+"AIZOACEAE, 1: 134";60
+"Aizoon L., 1: 135";61
+"Ajuga L., 3: 128";62
+"Alcea L., 2: 253";63
+"Alchemilla L., 2: 48";64
+"Aldrovanda L., 1: 421";65
+"Alectorolophus Zinn, 3: 276";66
+"Alhagi Gagnebin, 2: 191";67
+"Alisma L., 5: 2";68
+"ALISMATACEAE, 5: 1";69
+"Alkanna Tausch, 3: 95";70
+"Alliaria Scop., 1: 322";71
+"Allium L., 5: 49";72
+"Allosorus crispus (L.) Rohling, 1: 14";73
+"Alnus Miller, 1: 69";74
+"Aloe L., 5: 19";75
+"Alopecurus L., 5: 241";76
+"Alsine auct., 1: 152";77
+"Alternanthera Forskal, 1: 132";78
+"Althaea L., 2: 253";79
+"Althenia Petit, 5: 13";80
+"Alyssoides Miller, 1: 358";81
+"Alyssum L., 1: 359";82
+"Amaracus Gled., 3";83
+"AMARANTHACEAE, 1: 130";84
+"Amaranthus L., 1: 130";85
+"Amarintea Bubani, 2";86
+"AMARYLLIDACEAE, 5: 75";87
+"Amaryllis L., 5: 75";88
+"Amberboa (Pers.) Less., 4: 253";89
+"Ambrosia L., 4: 142";90
+"Ambrosina Bassi, 5: 272";91
+"Amelanchier Medicus, 2: 71";92
+"Ammadenia Rupr., 1: 160";93
+"Ammannia L., 2: 302";94
+"Ammanthus Boiss. & Heldr., 4";95
+"Ammi L., 2: 353";96
+"x Ammocalamagrostis P. Fourn., 5: 236";97
+"Ammochloa Boiss., 5: 177";98
+"Ammoides Adanson, 2: 353";99
+"Ammophila Host, 5: 236";100
+"Amorpha L., 2: 127";101
+"Ampelodesmos Link, 5: 252";102
+"Ampelopsis hort., 2";103
+"Amphinomia DC., 2: 104";104
+"Amphoricarpos Vis., 4: 208";105
+"Amsinckia Lehm., 3: 110";106
+"Amsonia Walter, 3";107
+"Amygdalus L., 2";108
+"Anabasis L., 1: 128";109
+"Anacamptis L. C. M. Richard, 5: 343";110
+"ANACARDIACEAE, 2: 236";111
+"Anacharis L. C. M. Richard, 5";112
+"Anacyclus L., 4: 168";113
+"Anagallis L., 3: 28";114
+"Anagyris L., 2: 85";115
+"Anaphalis DC., 4: 132";116
+"Anarrhinum Desf., 3: 220";117
+"Anchusa L., 3: 106";118
+"Andrachne L., 2: 211";119
+"Androcymbium Willd., 5: 21";120
+"Andromeda L., 3: 12";121
+"Andropogon, L., 5: 266";122
+"Androsace L., 3: 20";123
+"Androsaemum Duh., 2";124
+"Andryala L., 4: 358";125
+"Andrzeiowskia Reiehenb., 1: 378";126
+"Anemone L., 1: 262";127
+"Anethum L., 2: 341";128
+"Aneurolepidium Nevski, 5";129
+"Angelica L., 2: 357";130
+"Anisantha C. Koch, 5";131
+"Anisum Hill, 2";132
+"Anogramma Link, 1: 13";133
+"Anoplanthus Endl., 3";134
+"Antennaria Gaertner, 4: 131";135
+"Anthemis L., 4: 145";136
+"Anthericum L., 5: 18";137
+"Anthoxanthum L., 5: 229";138
+"Anthriscus Pers., 2: 326";139
+"Anthyllis L., 2: 177";140
+"Antinoria Parl., 5: 228";141
+"Antirrhinum L., 3: 221";142
+"Antitoxicum Pobed., 3";143
+"Apargia Scop., 4";144
+"Apera Adanson, 5: 172";145
+"Aphanes L., 2: 64";146
+"Aphyllanthes L., 5: 19";147
+"Apios Fabr., 2: 128";148
+"Apium L., 2: 351";149
+"APOCYNACEAE, 3: 68";150
+"Apocynum L., 3";151
+"Aponogeton L. fil., 5: 6";152
+"APONOGETONACEAE, 5: 6";153
+"Aposeris Cass., 4: 308";154
+"Aptenia N.E.Br., 1: 136";155
+"Apteranthes Mikan fil., 3";156
+"AQUIFOLIACEAE, 2: 241";157
+"Aquilegia L., 1: 287";158
+"Arabidopsis (DC.) Heynh., 1: 322";159
+"Arabis L., 1: 352";160
+"ARACEAE, 5: 268";161
+"Arachis L., 2: 191";162
+"Arachnospermum F. W. Schmidt, 4";163
+"Aracium Monnier, 4";164
+"ARALIACEAE, 2: 314";165
+"Araujia Brot., 3: 70";166
+"Arbutus L., 3: 11";167
+"Arceuthobium Bieb., 1: 87";168
+"Arceuthos drupacea (Labill.) Antoine & Kotschy, 1: 47";169
+"Archangelica N. M. Wolf, 2: 357";170
+"Arctagrostis Griseb., 5: 170";171
+"Arctium L., 4: 215";172
+"Arctophila Rupr. ex N. J. Andersson, 5: 167";173
+"Arctostaphylos Adanson, 3: 11";174
+"Arctotheca Wendl., 4: 208";175
+"Arctotis L., 4: 207";176
+"Arctous (A. Gray) Niedenzu, 3: 11";177
+"Arecastrum (Drude) Becc., 5: 267";178
+"Aremonia Nestler, 2: 33";179
+"Arenaria L., 1: 140";180
+"Aretia L., 3";181
+"Argemone mexicana L., 1: 297";182
+"Argusia Boehmer, 3: 84";183
+"Argyrolobium Ecklon & Zeyher, 2: 106";184
+"Arisarum Miller, 5: 271";185
+"Aristella Bertol., 5: 267";186
+"Aristida L., 5: 254";187
+"Aristolochia L., 1: 87";188
+"ARISTOLOCHIACEAE, 1: 87";189
+"Armeniaca Juss., 2";190
+"Armeria Willd., 3: 30";191
+"Armoracia P.Gaermer, B.Meyer & Scherb., 1: 346";192
+"Arnebia Forskal, 3: 86";193
+"Arnica L., 4: 189";194
+"Arnoseris Gaertner, 4: 306";195
+"Aronicum Necker ex Jacq., 4";196
+"Arrhenatherum Beauv., 5: 216";197
+"Artedia L., 2: 375";198
+"Artemisia L., 4: 178";199
+"Arthrocnemum Moq., 1: 121";200
+"Arthrolobium Desv., 2";201
+"Arum L., 5: 269";202
+"Aruncus L., 2: 6";203
+"Arundinaria Michx, 5: 124";204
+"Arundo L., 5: 252";205
+"Asarina Miller, 3: 224";206
+"Asarum L., 1: 87";207
+"ASCLEPIADACEAE, 3: 70";208
+"Asclepias L., 3: 70";209
+"Asparagopsis (Kunth) Kunth, 5";210
+"Asparagus L., 5: 71";211
+"Asperugo L., 3: 110";212
+"Asperula L., 4: 4";213
+"Asphodeline Reichenb., 5: 17";214
+"Asphodelus L., 5: 17";215
+"Aspidium Swartz, 1: 27";216
+"ASPLENIACEAE, 1: 18";217
+"Asplenium, 1: 18";218
+"Aster L., 4: 112";219
+"Asteriscus Miller, 4: 139";220
+"Asterolinon Hoffmanns. & Link, 3: 27";221
+"Astragalus L., 2: 108";222
+"Astrantia L., 2: 320";223
+"Astrocarpa Necker ex Dumort., 1: 420";224
+"Astrodaucus Drude, 2: 372";225
+"Asyneuma Griseb. & Schenk, 4: 95";226
+"Athamanta L., 2: 340";227
+"Athyrium Roth, 1: 24";228
+"Atractylis L., 4: 211";229
+"Atragene L., 1: 267";230
+"Atraphaxis L., 1: 108";231
+"Atriplex L., 1: 115";232
+"Atropa L., 3: 194";233
+"Atropis Rupr., 5";234
+"Aubrieta Adamson, 1: 356";235
+"Aucuba Thunb., 2: 313";236
+"Aulacospermum Ledeb., 2: 343";237
+"Aurinia (L.) Desv., 1: 369";238
+"Avellinia Parl., 5: 232";239
+"Avena L., 5: 206";240
+"Avenastrum Opiz, 5";241
+"Avenella Drejer, 5";242
+"Avenochloa J. Holub, 5";243
+"Avenula (Dumort.) Dumort., 5: 210";244
+"Axyris L., 1: 118";245
+"Azalea L., 3: 8";246
+"Azolla Lam., 1: 33";247
+"AZOLLACEAE, 1: 33";248
+"Azorina Feer, 4: 93";249
+"Baccharis L., 4: 120";250
+"Bacopa Aublet, 3: 204";251
+"BALANOPHORACEAE, 1: 90";252
+"Baldellia Parl., 5: 2";253
+"Baldingera P. Gaertner, C. A. Meyer & Scherb., 5";254
+"Ballota L., 3: 149";255
+"BALSAMINACEAE, 2: 240";256
+"Balsamita Miller, 4: 171";257
+"Barbarea R. Br., 1: 342";258
+"Barkhousia Moench, 4";259
+"Barlia Parl., 5: 342";260
+"Bartschia auct., 3";261
+"Bartsia L., 3: 269";262
+"Basella alba L., 1: 138";263
+"BASELLACEAE, 1: 138";264
+"Basilima Rafin., 2";265
+"Bassia All., 1: 118";266
+"Batrachium (DC.) S.F.Gray carinatum Schur, 1: 286";267
+"Beauverdia Herter, 5";268
+"Beckmannia Host, 5: 171";269
+"Bellardia All., 3: 269";270
+"Bellardiochloa Chiov., 5: 167";271
+"Bellevalia Lapeyr., 5: 44";272
+"Bellidiastrum Cass., 4";273
+"Bellis L., 4: 111";274
+"Bellium L., 4: 112";275
+"Berardia Vill., 4: 215";276
+"BERBERIDACEAE, 1: 294";277
+"Berberis L., 1: 295";278
+"Bergenia Moench, 1: 458";279
+"Bergia L., 2: 295";280
+"Beringeria Link, 3";281
+"Berteroa DC., 1: 369";282
+"Berula Koch, 2: 333";283
+"Beta L., 1: 110";284
+"Betonica L., 3: 151";285
+"Betula L., 1: 68";286
+"BETULACEAE, 1: 68";287
+"Biarum Schott, 5: 271";288
+"Biasolettia Koch, non C. Presl, 2: 330";289
+"Bicchia Parl., 5";290
+"Bidens L., 4: 139";291
+"Biebersteinia Stephan, 2: 204";292
+"Bienertia Bunge ex Boiss., 1: 125";293
+"Bifora Hoffm., 2: 328";294
+"Bilderdykia Dumort., 1: 97";295
+"Biropteris antri-jovis Kummerle, 1: 23";296
+"Biscutella L., 1: 393";297
+"Biserrula L., 2: 127";298
+"Bivonaea DC., 1: 383";299
+"Blackstonia Hudson, 3: 56";300
+"BLECHNACEAE, 1: 31";301
+"Blechnum L., 1: 31";302
+"Blysmus Panzer, 5: 280";303
+"Blyxa Noronha ex Thouars, 5: 5";304
+"Boehmeria nivea (L.) Gaud-Beaup., 1: 79";305
+"Boerhavia L., 1: 133";306
+"Bolanthus (Ser.) Reichenb., 1: 222";307
+"Bolboschoenus (Ascherson) Palla, 5: 277";308
+"Boleum Desv., 1: 413";309
+"Bombycilaena (DC.) Smolj., 4: 125";310
+"Bonannia Guss., 2: 358";311
+"Bonaveria Scop., 2: 177";312
+"Bongardia C.A.Meyer, 1: 295";313
+"Bonjeanea Scop., 2";314
+"BORAGINACEAE, 3: 83";315
+"Borago L., 3: 109";316
+"Borderea Miegeville, 5: 85";317
+"Bornmuellera Hausskn., 1: 371";318
+"Boschniakia C. A. Meyer, 3: 294";319
+"Bothriochloa O. Kuntze, 5";320
+"Botrago auct., 3";321
+"Botryanthus Kunth, 5";322
+"Botrychium Swartz, 1: 10";323
+"Boulardia F. W. Schultz, 3";324
+"Bourgaea Cosson, 4";325
+"Boussingaultia Humb., Bonpl. & Kunth, 1: 139";326
+"Bowlesia Ruiz & Pavon, 2: 319";327
+"Brachiaria (Trin.) Griseb., 5: 262";328
+"Brachyapium (Baillon) Maire, 2: 355";329
+"Brachypodium Beauv., 5: 189";330
+"Brachytropis (DC.) Reichenb., 2";331
+"Bramia Lam., 3";332
+"Brassica L., 1: 405";333
+"Brassicella Fourr. ex O.E.Schulz, 1: 411";334
+"Braxireon Rafin., 5";335
+"Braya Sternb. & Hoppe, 1: 323";336
+"Brevipodium A. & D. Love, 5";337
+"Brignolia Bertol., 2";338
+"Brimeura Salisb., 5: 44";339
+"Briza L., 5: 173";340
+"Brizochloa Jirasek & Chrtek, 5";341
+"Brodiaea Sm., 5";342
+"BROMELIACEAE, 5: 116";343
+"Bromopsis (Dumort.) Fourr., 5";344
+"Bromus L., 5: 182";345
+"Brotera Willd., non Cav., 4: 212";346
+"Broussonetia L'Her. ex Vent., 1: 77";347
+"Bruckenthalia Reichenb., 3: 8";348
+"Brunella auct., 3";349
+"Brunnera Steven, 3: 106";350
+"Bryanthus S. G. Gmelin, 3";351
+"Bryonia L., 2: 297";352
+"Bryophyllum Salisb., 1: 423";353
+"Bryza auct., 5";354
+"Bubonium Hill, 4";355
+"Buddleja L., 3: 201";356
+"BUDDLEJACEAE, 3: 201";357
+"Bufonia L., 1: 160";358
+"Buglossoides Moench, 3: 87";359
+"Buglossum Miller, 3";360
+"Bulbocastanum Miller, 2: 329";361
+"Bulbocodium L., 5: 25";362
+"Bunias L., 1: 325";363
+"Bunium L., 2: 329";364
+"Buphthalmum L., 4: 138";365
+"Bupleurum L., 2: 345";366
+"Butinia Boiss., 2";367
+"BUTOMACEAE, 5: 3";368
+"Butomus L., 5: 3";369
+"BUXACEAE, 2: 243";370
+"Buxus L., 2: 243";371
+"Cacalia L., 4: 206";372
+"Cachrys L., 2: 343";373
+"CACTACEAE, 2: 299";374
+"Cakile Miller, 1: 413";375
+"Calamagrostis Adanson, 5: 236";376
+"Calamintha Miller, 3: 166";377
+"Calandrinia Humb., Bonpl. & Kunth, 1: 137";378
+"Caldesia Parl., 5: 3";379
+"Calendula L., 4: 206";380
+"Calepina Adanson, 1: 416";381
+"Calicotome Link, 2: 86";382
+"Calla L., 5: 269";383
+"Callianthemum C.A.Meyer, 1: 251";384
+"Calligonum L., 1: 108";385
+"Callipeltis Steven, 4: 36";386
+"Callistemma (Mert. & Koch) Boiss., 4";387
+"CALLITRICHACEAE, 3: 123";388
+"Callitriche L., 3: 123";389
+"Calluna Salisb., 3: 8";390
+"Calophaca Fischer, 2: 108";391
+"Caltha L., 1: 254";392
+"Calycocorsus F. W. Schmidt, 4: 343";393
+"Calypso Salisb., 5: 349";394
+"Calystegia R. Br., 3: 78";395
+"Camelina Crantz, 1: 380";396
+"Campanopsis (R. Br.) O. Kuntze, 4";397
+"Campanula L.,  4: 74";398
+"CAMPANULACEAE, 4: 74";399
+"Campe verna (Miller) A.A.Heller, 1: 343";400
+"Camphorosma L., 1: 118";401
+"Campylopus Spach, 2";402
+"Canna L., 5: 324";403
+"CANNABACEAE, 1: 78";404
+"Cannabis L., 1: 78";405
+"CANNACEAE, 5: 324";406
+"Capnoides Miller, 1: 305";407
+"Capnophyllum Gaertner, 2: 358";408
+"CAPPARACEAE, 1: 312";409
+"Capparis L., 1: 312";410
+"CAPRIFOLIACEAE, 4: 44";411
+"Capsella Medicus, 1: 381";412
+"Capsicum L., 3: 196";413
+"Caragana Fabr., 2: 108";414
+"Caralluma R. Br., 3: 73";415
+"Carbenia Bentham, 4";416
+"Cardamine L., 1: 346";417
+"Cardaminopsis (C.A.Meyer) Hayek, 1: 351";418
+"Cardaria Desv., 1: 402";419
+"Cardiospermum L., 2: 239";420
+"Cardopatum Pers., 4: 212";421
+"Carduncellus Adanson, 4: 303";422
+"Carduus L., 4: 220";423
+"Carex L., 5: 290";424
+"Carlina L., 4: 208";425
+"Carpesium L., 4: 138";426
+"Carpinus L., 1: 71";427
+"Carpobrotus N.E.Br., 1: 135";428
+"Carregnoa Boiss., 5";429
+"Carrichtera DC., 1: 412";430
+"Carthamus L., 4: 302";431
+"Carum L., 2: 354";432
+"Carya Nutt., 1: 67";433
+"Caryolopha Fischer & Trautv., 3: 109";434
+"CARYOPHYLLACEAE, 1: 139";435
+"Cassandra D. Don, 3: 12";436
+"Cassiope D. Don, 3: 8";437
+"Castalia Salisb., 1: 247";438
+"Castanea Miller, 1: 72";439
+"Castellia Tineo, 5: 157";440
+"Castilleja Mutis ex L. fil., 3: 253";441
+"Catabrosa Beauv., 5: 172";442
+"Catabrosella (Tzvelev) Tzvelev, 5: 167";443
+"Catananche L., 4: 305";444
+"Catapodium Link, 5: 158";445
+"Catha Forskal ex Scop., 2";446
+"Caucalis L., 2: 372";447
+"Caulinia Willd., 5";448
+"Cedronella Moench, 3: 157";449
+"Cedrus Trew, 1: 40";450
+"CELASTRACEAE, 2: 241";451
+"Celosia L., 1: 130";452
+"Celsia L., 3: 205";453
+"Celtis L., 1: 77";454
+"Cenchrus L., 5: 264";455
+"Cenolophium Koch ex DC., 2: 356";456
+"Centaurea L., 4: 254";457
+"Centaurium Hill, 3: 56";458
+"Centranthus DC., 4: 55";459
+"Centrosis Swartz, 5";460
+"Centunculus L., 3: 28";461
+"Cephalanthera L. C. M. Richard, 5: 328";462
+"Cephalaria Schrader, 4: 57";463
+"Cephalorrhynchus Boiss., 4: 328";464
+"Cerastium L., 1: 164";465
+"Cerasus Juss., 2";466
+"Ceratocalyx Cosson, 3";467
+"Ceratocapnos Durieu, 1: 311";468
+"Ceratocarpus L., 1: 118";469
+"Ceratocephala Moench, 1: 286";470
+"Ceratochloa Beauv., 5";471
+"Ceratoides latens (J.F.Gmelin), 1: 118";472
+"Ceratonia L., 2: 83";473
+"CERATOPHYLLACEAE, 1: 248";474
+"Ceratophyllum L., 1: 248";475
+"Ceratopteris Brongn., 1: 11";476
+"Ceratostigma Bunge, 3: 30";477
+"Cercis L., 2: 83";478
+"Cerefolium Fabr., 2: 326";479
+"Cereus Miller, 2: 300";480
+"Cerinthe 1 ., 3: 94";481
+"Cervia Rodr. ex Lag., 3: 110";482
+"Cervicina Delile, 4";483
+"Cestrum L., 3: 201";484
+"Ceterach DC., 1: 23";485
+"Chaenomeles Lindley, 2: 64";486
+"Chaenorhinum (DC.) Reichenb., 3: 224";487
+"Chaerophyllum L., 2: 324";488
+"Chaetaria Beauv., 5";489
+"Chaetonychia cymosa (L.) Sweet, 1: 180";490
+"Chaetopogon Janchen, 5: 239";491
+"Chaeturus Link, non Chaiturus Willd., 5: 239";492
+"Chaiturus Willd., 3";493
+"Chamaebuxus Spach, 2";494
+"Chamaecyparis Spach, 1: 46";495
+"Chamaecytisus Link, 2: 90";496
+"Chamaedaphne Moench, 3: 12";497
+"Chamaemelum Miller, 4: 165";498
+"Chamaemelum Vis., non Miller, 4";499
+"Chamaenerion Seguier, 2: 308";500
+"Chamaepericlymenum Hill, 2: 313";501
+"Chamaepeuce DC., 4: 242";502
+"Chamaeplium Wallr., 1: 320";503
+"Chamaerops L., 5: 267";504
+"Chamaespartium Adanson, 2: 100";505
+"Chamaesyce S. F. Gray, 2";506
+"Chamagrostis Borkh. ex Wibel, 5";507
+"Chamomilla S. F. Gray, 4: 167";508
+"Chamorchis L. C. M. Richard, 5: 332";509
+"Charlolepis Cass., 4: 301";510
+"Cheilanthes Swartz, 1: 12";511
+"Cheiranthus L., 1: 328";512
+"Cheirolophus Cass., 4: 249";513
+"Chelidonium L., 1: 301";514
+"CHENOPODIACEAE, 1: 108";515
+"Chenopodium L., 1: 111";516
+"Cherleria L., 1: 152";517
+"Chilochloa Beauv., 5";518
+"Chimaphila Pursh, 3: 4";519
+"Chionodoxa Boiss., 5: 44";520
+"Chlamydophora Ehrenb. ex Less., 4: 178";521
+"Chlora Adanson, 3";522
+"Chlorocyperus Rikli, 5";523
+"Chondrilla L., 4: 343";524
+"Chorispora R.Br. ex DC., 1: 342";525
+"Christella Leveille, 1: 18";526
+"Chronanthus (DC.) C. Koch, 2: 93";527
+"Chrozophora A. Juss., 2: 211";528
+"Chrysanthemoides Fabr., 4: 207";529
+"Chrysanthemum L., 4: 168";530
+"Chrysochamela (Fenzl) Boiss., 1: 323";531
+"Chrysopogon Trin., 5: 265";532
+"Chrysosplenium L., 1: 459";533
+"Cicendia Adanson, 3: 56";534
+"Cicer L., 2: 128";535
+"Cicerbita Wallr., 4: 331";536
+"Cichorium L., 4: 304";537
+"Cicuta L., 2: 352";538
+"Cimicifuga L., 1: 254";539
+"Cineraria L., 4";540
+"Cinna L., 5: 172";541
+"Cionura Griseb., 3: 73";542
+"Circaea L., 2: 305";543
+"Circinnus Medicus, 2: 177";544
+"Cirsium Miller, 4: 232";545
+"CISTACEAE, 2: 282";546
+"Cistanche Hoffmanns. & Link, 3: 285";547
+"Cistus L., 2: 282";548
+"Citrullus Schrader, 2: 298";549
+"Citrus L., 2: 229";550
+"Cladanthus Cass., 4: 167";551
+"Cladium Browne, 5: 288";552
+"Clandestina Hill, 3";553
+"Clausia Trotzky, 1: 340";554
+"Claytonia L., 1: 138";555
+"Cleistogenes Keng, 5: 256";556
+"Clematis L., 1: 266";557
+"Cleome L., 1: 312";558
+"Cleonia L., 3: 162";559
+"Clinelymus (Griseb.) Nevski, 5: 192";560
+"Clinopodium L., 3: 167";561
+"CLUSIACEAE, 2: 261";562
+"Clypeola L., 1: 371";563
+"CNEORACEAE, 2: 230";564
+"Cneorum L., 2: 230";565
+"Cnicus L., 4: 301";566
+"Cnidium Cusson, 2: 355";567
+"Cobresia auct., 5";568
+"Cochlearia L., 1: 378";569
+"Cochranea Miers, 3";570
+"Coeloglossum Hartman, 5: 333";571
+"Coincya Rouy, 1: 411";572
+"Coix L., 5: 267";573
+"Colchicum L., 5: 21";574
+"Coleanthus Seidl, 5: 245";575
+"Coleostephus Cass., 4: 174";576
+"Colladonia DC., non Sprengel, 2: 344";577
+"Collomia Nutt., 3: 74";578
+"Colobachne Beauv., 5";579
+"Colocasia Schott, 5: 269";580
+"Colocynthis Miller, 2";581
+"Colpodium Trin., 5";582
+"Colutea L., 2: 107";583
+"Comandra Nutt., 1: 82";584
+"Comarum L., 2: 39";585
+"Commelina L., 5: 117";586
+"COMMELINACEAE, 5: 116";587
+"Commicarpus Standley, 1: 133";588
+"Comperia C. Koch, 5: 337";589
+"COMPOSITAE, 4: 103";590
+"Conioselinum Hoffm., 2: 356";591
+"Conium L., 2: 342";592
+"Conopodium Koch, 2: 329";593
+"Conringia Adanson, 1: 403";594
+"Consolida (DC.) S.F.Gray, 1: 260";595
+"Convallaria L., 5: 70";596
+"CONVOLVULACEAE, 3: 74";597
+"Convolvulus L., 3: 79";598
+"Conyza Less., 4: 120";599
+"Corallorhiza Chatel., 5: 349";600
+"Corchorus L., 2: 247";601
+"Corema D. Don, 3: 13";602
+"Coriandrum L., 2: 328";603
+"Coriaria L., 2: 236";604
+"CORIARIACEAE, 2: 236";605
+"Coridothymus Reichenb. fil., 3";606
+"Coris L., 3: 29";607
+"Corispermum L., 1: 119";608
+"CORNACEAE, 2: 313";609
+"Cornicina (DC.) Boiss., 2: 177";610
+"Cornucopiae L., 5: 243";611
+"Cornus L., 2: 313";612
+"Coronaria Schaeffer, 1: 189";613
+"Coronilla L., 2: 182";614
+"Coronopus Haller, 1: 402";615
+"Corrigiola L., 1: 179";616
+"Cortaderia Stapf, 5: 253";617
+"Cortusa L., 3: 23";618
+"Corydalis Vent., 1: 303";619
+"CORYLACEAE, 1: 70";620
+"Corylus L., 1: 71";621
+"Corynephorus Beauv., 5: 231";622
+"Cosentinia Tod., 1: 13";623
+"Costia Willk., 5";624
+"Cota Gay ex Guss., 4";625
+"Cotinus Miller, 2: 237";626
+"Cotoneaster Medicus, 2: 72";627
+"Cotula L., 4: 177";628
+"Cotyledon L., 1: 424";629
+"Cousinia Cass., 4: 215";630
+"Cracca Hill, 2";631
+"Crambe L., 1: 415";632
+"Crassula L., 1: 422";633
+"CRASSULACEAE, 1: 422";634
+"Crataegus L., 2: 73";635
+"Cremnophyton Brullo & Pavone, 1: 117";636
+"Crenularia Boiss., 1: 388";637
+"Crepis L., 4: 344";638
+"Cressa L., 3: 77";639
+"Critesion Rafin., 5";640
+"Crithmum L., 2: 333";641
+"Crithopsis Jaub. & Spach, 5: 200";642
+"Crociris Schur, 5";643
+"Crocosmia Planchon, 5";644
+"Crocus L., 5: 92";645
+"Croton L., 2";646
+"Crucianella L., 4: 3";647
+"Cruciata Miller, 4: 36";648
+"CRUCIFERAE, 1: 313";649
+"Crupina (Pers.) Cass., 4: 301";650
+"Cryophytum crystallinum (L.) N.E.Br., 1: 135";651
+"Crypsis Aiton, 5: 258";652
+"Cryptogramma R.Br. ex Richardson, 1: 14";653
+"Cryptomeria D.Don, 1: 45";654
+"Cryptostemma R. Br., 4";655
+"Cryptotaenia DC., 2: 352";656
+"Ctenopsis De Not., 5: 156";657
+"Cucubalus L., 1: 218";658
+"Cucumis L., 2: 298";659
+"Cucurbita L., 2: 298";660
+"CUCURBITACEAE, 2: 297";661
+"Culcita C.Presl, 1: 16";662
+"Cuminum L., 2: 351";663
+"CUPRESSACEAE, 1: 45";664
+"Cupressus L., 1: 45";665
+"Cupularia Gren. & Godron, non Link, 4: 136";666
+"Cuscuta L., 3: 74";667
+"Cutandia Willk., 5: 158";668
+"Cuviera Koeler, non DC., 5";669
+"Cyanopsis Cass., 4: 253";670
+"Cyathea cooperi (Hooker & F.Mueller)Domin, 1: 16";671
+"Cyatheaceae, 1: 16";672
+"Cyathophylla chlorifolia (Poiret) Bocquet & Strid, 1: 224";673
+"Cyclachaena Fresen., 4";674
+"Cyclamen L., 3: 25";675
+"Cycloloma Moq., 1: 114";676
+"Cyclosorus dentatus (Forskal) R.-C.Ching, 1: 18";677
+"Cydonia Miller, 2: 64";678
+"Cymbalaria Hill, 3: 236";679
+"Cymbaria L., 3: 281";680
+"Cymbochasma (Endl.) Klokov & Zoz, 3: 281";681
+"Cymbopogon Sprengel, 5";682
+"Cymodocea C. Konig, 5: 13";683
+"Cynanchum L., 3: 71";684
+"Cynara L., 4: 248";685
+"Cynocrambe Gagnebin, 2: 312";686
+"Cynodon L. C. M. Richard, 5: 259";687
+"Cynoglossum L., 3: 119";688
+"Cynomorium L., 1: 90";689
+"Cynosurus L., 5: 171";690
+"CYPERACEAE, 5: 276";691
+"Cyperus L., 5: 284";692
+"Cyprianthe asiatica (L.) Freyn, 1: 279";693
+"Cypripedium L., 5: 326";694
+"Cyrtomium C.Presl, 1: 27";695
+"Cystopteris Bernh., 1: 24";696
+"Cytinaceae, 1: 90";697
+"Cytinus L., 1: 90";698
+"Cytisanthus O. F. Lang, 2";699
+"Cytisus L., 2: 86";700
+"Daboecia D. Don, 3: 10";701
+"Dactylis L., 5: 170";702
+"Dactyloctenium Willd., 5: 259";703
+"Dactylon Roemer & Schultes, 5";704
+"Dactylorchis (Klinge) Vermeulen, 5";705
+"Dactylorhiza Necker ex Nevski, 5: 333";706
+"Damasonium Miller, 5: 3";707
+"Danaa All., 2";708
+"Danae auct., non Medicus, 2";709
+"Danthonia DC., 5: 253";710
+"Danthoniastrum (J. Holub) J. Holub, 5: 216";711
+"x Danthosieglingia Domin, 5";712
+"Daphne L., 2: 256";713
+"Darmera peltata (Torrey ex Bentham) Voss, 1: 437";714
+"Darniella Maire, 1: 125";715
+"Dasiphora Rafin., 2: 39";716
+"Dasypyrum (Cosson & Durieu) T. Durand, 5: 203";717
+"Datisca L., 2: 296";718
+"DATISCACEAE, 2: 296";719
+"Datura L., 3: 200";720
+"Daucus L., 2: 373";721
+"Davallia Sm., 1: 31";722
+"DAVALLIACEAE, 1: 31";723
+"Daveaua Willk. ex Mariz, 4: 173";724
+"Degenia Hayek, 1: 359";725
+"Delia segetalis (L.) Dumort, 1: 187";726
+"Delphinium L., 1: 257";727
+"Dendranthema (DC.) Desmoulins, 4: 169";728
+"Dennstaedtiaceae, 1: 16";729
+"Dentaria L., 1: 347";730
+"Deparia Hooker & Grev., 1: 24";731
+"Deschampsia Beauv., 5: 225";732
+"Descurainia Webb & Berth., 1: 321";733
+"Desmazeria Durnort., 5: 158";734
+"Dethawia Endl., 2: 333";735
+"Deutzia Thunb., 1: 460";736
+"Diandrochloa De Winter, 5";737
+"Dianthus L., 1: 227";738
+"Diapensia L., 3: 3";739
+"DIAPENSIACEAE, 3: 3";740
+"Diarthron Turcz., 2: 260";741
+"Dicentra Bernh., 1: 303";742
+"Dichanthium Willemet, 5: 266";743
+"Dichondra J. R. & G. Forster, 3: 78";744
+"Dichostylis Beauv., 5";745
+"Dichrocephala L'Her. ex DC., 4: 111";746
+"Dicksonia L'Her., 1: 16";747
+"DICKSONIACEAE, 1: 16";748
+"Dictamnus L., 2: 229";749
+"Didesmus Desv., 1: 415";750
+"Digitalis L., 3: 239";751
+"Digitaria Fabric., 5: 262";752
+"Digraphis Trin., 5: 244";753
+"Diopogon Jordan & Fourr., 1: 428";754
+"Dioscorea L., 5: 84";755
+"DIOSCOREACEAE, 5: 84";756
+"Diosphaera Buser, 4: 94";757
+"Diospyros L., 3: 52";758
+"Diotis Desf., non Schreber, 4";759
+"Dipcadi Medicus, 5: 46";760
+"Diphasiastrum J.Holub, 1: 4";761
+"Diphasium auct., non C.Presl, 1: 4";762
+"Diplachne Beauv., 5";763
+"Diplazium Swartz, 1: 24";764
+"Diplotaxis DC., 1: 404";765
+"DIPSACACEAE, 4: 56";766
+"Dipsacus L., 4: 58";767
+"Diptychocarpus Trautv., 1: 342";768
+"Dispermotheca Beauverd, 3: 266";769
+"Disphyma N.E.Br., 1: 136";770
+"Dittrichia W. Greuter, 4: 136";771
+"Dodartia L., 3: 205";772
+"Dolichos L., 2";773
+"Donia R. Br., 4";774
+"Doodia caudata (Cav.) R.Br., 1: 31";775
+"Doronicum L., 4: 190";776
+"Dorycnium Miller, 2: 172";777
+"Dorycnopsis Boiss., 2: 177";778
+"Douglasia Lindley, 3";779
+"Draba L., 1: 372";780
+"Drabopsis C.Koch, 1: 377";781
+"Dracocephalum L., 3: 161";782
+"Dracunculus Miller, 5: 272";783
+"Drimia Jacq., 5";784
+"Drosanthemum Schwantes, 1: 136";785
+"Drosera L., 1: 421";786
+"DROSERACEAE, 1: 421";787
+"Drosophyllum Link, 1: 422";788
+"Dryas L., 2: 34";789
+"DRYOPTERIDACEAE, 1: 27";790
+"Dryopteris Adanson, 1: 27";791
+"Drypis L., 1: 219";792
+"Duchesnea Sm., 2: 48";793
+"Dupontia R. Br., 5: 170";794
+"Durieua Boiss. & Reuter, 2";795
+"Duvaljouvea Palla, 5";796
+"EBENACEAE, 3: 52";797
+"Ebenus L., 2: 191";798
+"Ebingeria Chrtek & Krisa, 5";799
+"Echallium A. Richard, 2: 297";800
+"Echinaria Desf., 5: 177";801
+"Echinochloa Beauv., 5: 261";802
+"Echinocystis Torrey & A. Gray, 2: 299";803
+"Echinodorus Engelm., 5";804
+"Echinophora L., 2: 324";805
+"Echinops L., 4: 212";806
+"Echinopsilon hirsutum (L.) Moq., 1: 119";807
+"Echinospartum (Spach) Rothm., 2: 100";808
+"Echinospermum Swartz ex Lehm., 3: 117";809
+"Echium L., 3: 97";810
+"Eclipta L., 4: 141";811
+"Edraianthus A. DC., 4: 99";812
+"Egeria Planchon, 5: 4";813
+"Eichornia Kunth, 5: 85";814
+"ELAEAGNACEAE, 2: 261";815
+"Elaeagnus L., 2: 261";816
+"Elaeoselinum Koch ex DC., 2: 368";817
+"Elaphoglossum Schott ex Sm., 1: 30";818
+"ELATINACEAE, 2: 295";819
+"Elatine L., 2: 295";820
+"Elatinoides (Chav.) Wettst., 3: 238";821
+"Eleocharis R. Br., 5: 281";822
+"Eleogiton Link, 5";823
+"Elephas Miller, 3";824
+"Eleusine Gaertner, 5: 258";825
+"Elisma Buchenau, 5: 2";826
+"Elizaldia Willk., 3: 103";827
+"Elodea Michx, 5: 4";828
+"Elodes Adanson, 2: 261";829
+"Elsholtzia Willd., 3: 192";830
+"Elymus L., 5: 192";831
+"Elyna Schrader, 5: 289";832
+"Elytrigia Desv., 5: 192";833
+"Emex Campd., 1: 107";834
+"EMPETRACEAE, 3: 13";835
+"Empetrum L., 3: 14";836
+"Enarthrocarpus Labill., 1: 416";837
+"Endocellion Turcz. ex Herder, 4";838
+"Endoptera DC., 4";839
+"Endressia Gay, 2: 355";840
+"Endymion Dumort., 5: 43";841
+"Enneapogon Desv. ex Beauv., 5: 255";842
+"Ephedra L., 1: 49";843
+"EPHEDRACEAE, 1: 49";844
+"Epilobium L., 2: 308";845
+"Epimedium L., 1: 295";846
+"Epipactis Zinn, 5: 326";847
+"Epipogium R. Br., 5: 329";848
+"EQUISETACEAE, 1: 7";849
+"Equisetum L., 1: 7";850
+"Eragrostis N. M. Wolf, 5: 256";851
+"Eranthis Salisb., 1: 251";852
+"Erechtites Rafin., 4: 191";853
+"Eremoblastus caspicus Botsch., 1: 340";854
+"Eremopoa Roshev., 5: 167";855
+"Eremopyrum (Ledeb.) Jaub. & Spach, 5: 200";856
+"Eremosparton Fischer & C. A. Meyer, 2: 107";857
+"Eremostachys Bunge, 3: 143";858
+"Eremurus Bieb., 5: 18";859
+"Erepsia N.E.Br., 1: 136";860
+"Erianthus Michx, 5";861
+"Erica L., 3: 5";862
+"ERICACEAE, 3: 5";863
+"Ericodes Heister ex Fabr., 3";864
+"Erigeron L., 4: 116";865
+"Erinacea Adanson, 2: 101";866
+"Erinus L., 3: 241";867
+"Eriobotrya Lindley, 2: 71";868
+"ERIOCAULACEAE, 5: 117";869
+"Eriocaulon L., 5: 117";870
+"Eriochloa Kunth, 5: 262";871
+"Eriolobus (DC.) M. J. Roemer, 2";872
+"Eriophorum L., 5: 280";873
+"Eriostomum Hoffmanns. & Link, 3";874
+"Eriosynaphe DC., 2: 360";875
+"Eritrichium Schrader ex Gaudin, 3: 117";876
+"Erodium L'Her., 2: 199";877
+"Erophila DC., 1: 377";878
+"Eruca Miller, 1: 410";879
+"Erucaria Gaermer, 1: 413";880
+"Erucastrum C.Presl, 1: 410";881
+"Ervilia Link, 2";882
+"Ervum L., 2";883
+"Eryngium L., 2: 320";884
+"Erysimum L., 1: 325";885
+"Erythraea Borkh., 3";886
+"Erythronium L., 5: 28";887
+"Erythrostictus Schlecht., 5";888
+"ESCALLONIACEAE, 1: 461";889
+"Escallonia Mutis ex L.fil., 1: 461";890
+"Eschscholzia Cham., 1: 302";891
+"Eucalyptus L'Her., 2: 304";892
+"Euclidium R.Br., 1:342";893
+"Eudianthe (Reichenb.) Reichenb., 1: 215";894
+"Eufragia Griseb., 3";895
+"Euloxus muricatus Gillies ex Moq., 1: 131";896
+"Euonymus L., 2: 242";897
+"Eupatorium L., 4: 109";898
+"EUPHORBIACEAE, 2: 211";899
+"Euphorbia L., 2: 213";900
+"Euphrasia L., 3: 257";901
+"Eurotia auct., non Adanson, 1: 118";902
+"Eutrema R.Br., 1: 322";903
+"Euzomodendron Cosson, 1: 403";904
+"Evacidium Pomel, 4: 126";905
+"Evax Gaertner, 4: 124";906
+"Eversmannia Bunge, 2: 185";907
+"Exacum L., 3";908
+"Exaculum Caruel, 3: 56";909
+"Faba Miller, 2";910
+"FAGACEAE, 1: 71";911
+"Fagonia L., 2: 205";912
+"Fagopyrum Miller, 1: 98";913
+"Fagus L., 1: 72";914
+"Falcaria Fabr., 2: 354";915
+"Falcatula Brot., 2";916
+"Fallopia Adanson, 1: 97";917
+"Falona Adanson, 5";918
+"Farsetia Turra, 1: 369";919
+"Fascicularia Mez, 5: 116";920
+"Fedia Gaertner, 4: 52";921
+"Ferula L., 2: 358";922
+"Ferulago Koch, 2: 359";923
+"Festuca L., 5: 125";924
+"Festucopsis (C. E. Hubbard) Melderis, 5: 190";925
+"x Festulolium Ascherson & Graebner, 5: 154";926
+"x Festulpia Melderis ex Stace & R. Cotton, 5: 154";927
+"Fibigia Medicus, 1: 369";928
+"Ficaria Haller, 1: 281";929
+"Ficus L., 1: 78";930
+"Filaginella Opiz, 4: 127";931
+"Filago L., 4: 121";932
+"Filipendula Miller, 2: 6";933
+"Fimbristylis Vahl, 5: 284";934
+"Fistularia O. Kuntze, 3";935
+"Fluminia Fries, 5";936
+"Foeniculum Miller, 2: 341";937
+"Fontanesia Labill., 3: 53";938
+"Fornicium Cass., 4";939
+"Forsskalea L., 1: 81";940
+"Forsythia Vahl, 3: 53";941
+"Fourcroya auct., 5: 75";942
+"Fourraea alpina (L.) Greuter & Burdet, 1: 354";943
+"Fragaria L., 2: 47";944
+"Frangula Miller, 2: 245";945
+"Frankenia L., 2: 294";946
+"FRANKENIACEAE, 2: 294";947
+"Fraxinus L., 3: 53";948
+"Freesia Ecklon ex Klatt, 5: 92";949
+"Freyera Reichenb., nor. Freyeria Scop., 2";950
+"Fritillaria L., 5: 31";951
+"Fuchsia L., 2: 305";952
+"Fuirena Rottb., 5: 284";953
+"Fumana (Dunal) Spach, 2: 291";954
+"Fumaria L., 1: 306";955
+"Furcraea Vent., 5: 75";956
+"Gagea Salisb., 5: 26";957
+"Gaillardia Foug., 4: 144";958
+"Galactites Moench, 4: 244";959
+"Galanthus L., 5: 77";960
+"Galatella Cass., 4";961
+"Galega L., 2: 107";962
+"Galenia secunda Sonder, 1: 135";963
+"Galeobdolon Adanson, 3: 148";964
+"Galeopsis L., 3: 145";965
+"Galilea Parl., 5";966
+"Galinsoga Ruiz & Pavon, 4: 143";967
+"Galium L., 4: 14";968
+"Gamochaeta Weddell, 4: 127";969
+"Garidella L., 1: 253";970
+"Gasoul nodiflorum (L.) Rothm., 1: 135";971
+"Gasparrinia Bertol., 2";972
+"Gastridium Beauv., 5: 235";973
+"Gastrolychnis uralensis Rupr., 1: 201";974
+"Gaudinia Beauv., 5: 217";975
+"Gaudiniopsis Eig, 5: 217";976
+"Gaultheria L., 3: 11";977
+"Gaya Gaudin, non Kunth, 2";978
+"Gazania Gaertner, 4: 208";979
+"Gelasia Cass., 4: 317";980
+"Genista L., 2: 94";981
+"Genistella Ortega, 2: 100";982
+"Gennaria Parl., 5: 330";983
+"Gentiana L., 3: 59";984
+"GENTIANACEAE, 3: 56";985
+"Gentianella Borkh., 3: 63";986
+"GERANIACEAE, 2: 193";987
+"Geranium L., 2: 193";988
+"Geropogon L., 4: 322";989
+"GESNERIACEAE, 3: 284";990
+"Geum L., 2: 34";991
+"Gifola Cass., 4";992
+"Girgensohnia Bunge ex Fenzl, 1: 128";993
+"Gladiolus, 5: 101";994
+"Glaucium Miller, 1: 301";995
+"Glaux L., 3: 28";996
+"Glechoma L., 3: 161";997
+"Gleditsia L., 2: 84";998
+"Glinus L., 1: 137";999
+"Globularia L., 3: 282";1000
+"GLOBULARIACEAE, 3: 282";1001
+"Glossopappus G. Kunze, 4: 174";1002
+"Glyceria R. Br., 5: 179";1003
+"Glycine Willd., 2: 128";1004
+"Glycyrrhiza L., 2: 127";1005
+"Gnaphalium L., 4: 128";1006
+"Goebelia Bunge ex Boiss., 2: 85";1007
+"Goldbachia DC., 1: 325";1008
+"Gomphocarpus R. Br., 3: 70";1009
+"Goniolimon Boiss., 3: 50";1010
+"Goniolobium austriacum (Jacq.) G.Beck, 1: 403";1011
+"Gonocytisus Spach, 2: 101";1012
+"Goodyera R. Br., 5: 330";1013
+"Gossypium L., 2: 255";1014
+"Gouffeia arenarioides Robill. & Cast. ex DC., 1: 148";1015
+"Goulardia Husnot, 5";1016
+"Grafia Reichenb., 2: 341";1017
+"GRAMINEAE, 5: 118";1018
+"GRAMMITIDACEAE, 1: 16";1019
+"Grammitis Swartz, 1: 16";1020
+"Graphephorum Desv., 5";1021
+"Gratiola L., 3: 203";1022
+"Gregoria Duby, 3";1023
+"Grindelia Willd., 4: 109";1024
+"Groenlandia Gay, 5: 11";1025
+"Grossularia reclinata (L.) Miller, 1: 462";1026
+"GROSSULARIACEAE, 1: 461";1027
+"Guillonea Cosson, 2: 368";1028
+"Guiraoa Cosson, 1: 416";1029
+"Guizotia Cass., 4: 139";1030
+"Gunnera L., 2: 311";1031
+"GUTTIFERAE, 2: 261";1032
+"Gymnadenia R. Br., 5: 332";1033
+"Gymnocarpium, 1: 26";1034
+"Gymnogramma Desv., 1: 13";1035
+"Gymnospermium Spach, 1: 294";1036
+"Gymnosporia (Wight & Arnott) Hooker fil., 2";1037
+"Gymnostyles Juss., 4: 178";1038
+"Gynandriris Parl., 5: 92";1039
+"Gypsophila L., 1: 219";1040
+"Habenaria Willd., 5";1041
+"Haberlea Friv., 3: 285";1042
+"Hackelia Opiz, 3: 117";1043
+"Hacquetia DC., 2: 320";1044
+"Haenselera Boiss. ex DC., non Lag., 4: 305";1045
+"Hainardia W. Greuter, 5: 244";1046
+"Hakea Schrader, 1: 82";1047
+"Halacsya Dorfler, 3: 97";1048
+"Halenia Borkh., 3: 67";1049
+"Halimione Aellen, 1: 117";1050
+"Halimium (Dunal) Spach, 2: 284";1051
+"Halimocnemis C.A.Meyer, 1: 130";1052
+"Halimodendron Fischerex DC., 2: 108";1053
+"Halmyra Parl., 5";1054
+"Halocnemum Bieb., 1: 121";1055
+"Halogeton C.A.Meyer, 1: 130";1056
+"Halopeplis Bunge ex Ung.-Sternb., 1: 121";1057
+"Halophila Thouars, 5: 5";1058
+"HALORAGACEAE, 2: 311";1059
+"Halostachys C.A.Meyer, 1: 121";1060
+"Haloxylon Bunge, 1: 129";1061
+"Hammada tamariscifolia (L.) Iljin, 1: 129";1062
+"Hammarbya O. Kuntze, 5: 350";1063
+"Hammatolobium Fenzl, 2: 185";1064
+"Haplophyllum A. Juss., 2: 227";1065
+"Harrimanella Coville, 3";1066
+"Haynaldia Schur, 5: 203";1067
+"Hebe Commerson, 3: 251";1068
+"Hedera L., 2: 314";1069
+"Hedraianthus auct., 4: 99";1070
+"Hedychium Koenig, 5: 324";1071
+"Hedypnois Miller, 4: 307";1072
+"Hedysarum L., 2: 185";1073
+"Heleocharis auct., 5";1074
+"Heleochloa Host, 5: 258";1075
+"Helianthemum Miller, 2: 286";1076
+"Helianthus L., 4: 141";1077
+"Helichrysum Miller, 4: 128";1078
+"Helicodiceros Schott, 5";1079
+"Helictotrichon Besser, 5: 208";1080
+"Heliopsis Pers., 4: 143";1081
+"Heliosperma (Reichenb.) Reichenb., 1: 210";1082
+"Heliotropium L., 3: 84";1083
+"Helleborine Miller, 5: 326";1084
+"Helleborus L., 1: 249";1085
+"Hellenocarum H. Wolff, 2";1086
+"Helmintia Juss., 4";1087
+"Helodea auct., 5";1088
+"Helodes auct., 2";1089
+"Helosciadium Koch, 2";1090
+"Helxine soleirolii Req., 1: 81";1091
+"Hemarthria R. Br., 5: 266";1092
+"Hemerocallis L., 5: 19";1093
+"Hemionitis pozoi Lag., 1: 18";1094
+"Hepatica Miller, 1: 264";1095
+"Heptaptera Margot & Reuter, 2: 344";1096
+"Heracleum L., 2: 364";1097
+"Herminium Guett., 5: 331";1098
+"Hermodactylus Miller, 5: 87";1099
+"Herniaria L., 1: 182";1100
+"Herpestis Gaertner fil., 3";1101
+"Hesiodia Moench, 3";1102
+"Hesperis L., 1: 336";1103
+"Heteracia Fischer & C. A. Meyer, 4: 344";1104
+"Heteranthemis Schott, 4: 169";1105
+"Heteranthera Ruiz & Pavon, 5: 85";1106
+"Heterocaryum A. DC., 3: 117";1107
+"Heteropogon Pers., 5: 266";1108
+"Heterotaenia Boiss., 2";1109
+"Hibiscus L., 2: 255";1110
+"Hieracium L., 4: 358";1111
+"Hierochloe R. Br., 5: 228";1112
+"Himantoglossum Koch, 5: 342";1113
+"HIPPOCASTANACEAE, 2: 240";1114
+"Hippochaete Milde, 1: 7";1115
+"Hippocrepis L., 2: 184";1116
+"Hippomarathrum Link, 2: 343";1117
+"Hippophae L., 2: 261";1118
+"HIPPURIDACEAE, 2: 313";1119
+"Hippuris L., 2: 313";1120
+"Hirschfeldia Moench, 1: 412";1121
+"Hispidella Barnades ex Lam., 4: 357";1122
+"Hladnikia Koch, non Reichenb., 2";1123
+"Hladnikia Reichenb., 2: 342";1124
+"Hohenackeria Fischer & C. A. Meyer, 2: 345";1125
+"Holcus L., 5: 230";1126
+"Holoschoenus Link, 5: 277";1127
+"Holosteum L., 1: 164";1128
+"Homalachne O. Kuntze, 5";1129
+"Homalocenchrus Mieg, 5";1130
+"Homogyne Cass., 4: 188";1131
+"Honkenya Ehrh., 1: 160";1132
+"Hoplismenus auct., 5";1133
+"Hordelymus (Jessen) C. O. Harz, 5: 205";1134
+"Hordeum L., 5: 204";1135
+"Horminum L., 3: 188";1136
+"Hormuzakia Gusuleac, 3";1137
+"Hornungia Reichenb., 1: 383";1138
+"Hottonia L., 3: 24";1139
+"Howeia Beccari, 5: 267";1140
+"Huetia Boiss., 2: 330";1141
+"Hugueninia Reichenb., 1: 322";1142
+"Humulus L., 1: 78";1143
+"Huperzia Bernh., 1: 3";1144
+"Hutera Porta, 1: 411";1145
+"Hyacinthella Schur, 5: 45";1146
+"Hyacinthoides Medicus, 5: 43";1147
+"Hyacinthus L., 5: 44";1148
+"Hydrangea L., 1: 460";1149
+"HYDRANGEACEAE, 1: 460";1150
+"Hydrilla L. C. M. Richard, 5: 5";1151
+"Hydrocharis L., 5: 4";1152
+"HYDROCHARITACEAE, 5: 3";1153
+"Hydrocotyle L., 2: 319";1154
+"HYDROPHYLLACEAE, 3: 83";1155
+"Hylandra suecica (Fries) A.Love, 1: 322";1156
+"Hymenocarpus Savi, 2: 177";1157
+"Hymenolobus Nutt., 1: 382";1158
+"Hymenonema Cass., 4: 305";1159
+"HYMENOPHYLLACEAE, 1: 14";1160
+"Hymenophyllum Sm., 1: 15";1161
+"Hymenostemma (G. Kunze) Willk., 4: 174";1162
+"Hyoscyamus L., 3: 195";1163
+"Hyoseris L., 4: 307";1164
+"Hyparrhenia N. J. Andersson ex E. Fourn., 5: 266";1165
+"Hypecoum L., 1: 302";1166
+"Hypericum L., 2: 261";1167
+"Hypochoeris L., 4: 308";1168
+"HYPOLEPIDACEAE, 1: 16";1169
+"Hypopitys Hill, 3";1170
+"Hyssopus L., 3: 170";1171
+"Iberis L., 1: 390";1172
+"Ifloga Cass., 4: 123";1173
+"Ilex L., 2: 241";1174
+"Illecebrum L., 1: 184";1175
+"Ilysanthes Rafin., 3";1176
+"Impatiens L., 2: 240";1177
+"Imperata Cyr., 5: 264";1178
+"Imperatoria L., 2";1179
+"Inula L., 4: 133";1180
+"Ionopsidium see Jonopsidium, 1: 383";1181
+"Ionorchis G. Beck, 5";1182
+"Ipheion Rafin., 5: 70";1183
+"Ipomoea L., 3: 82";1184
+"IRIDACEAE, 5: 86";1185
+"Iris L., 5: 87";1186
+"Isatis L., 1: 324";1187
+"Ischarum Schott, 5";1188
+"Isnardia L., 2: 308";1189
+"ISOETACEAE, 1: 6";1190
+"Isoetes L., 1: 6";1191
+"Isolepis R. Br., 5";1192
+"Isopyrum L., 1: 253";1193
+"Iva L., 4: 142";1194
+"Ixia L., 5: 92";1195
+"Jacobaea Burm., 4";1196
+"Jankaea Boiss., 3: 285";1197
+"Jasione L., 4: 100";1198
+"Jasionella Stoj. & Stefanov, 4";1199
+"Jasminum L., 3: 52";1200
+"Jasonia Cass., 4: 138";1201
+"Johrenia DC., 2: 358";1202
+"Jonopsidium Reichenb., 1: 383";1203
+"Jovibarba Opiz, 1: 428";1204
+"Jubaea Kunth, 5: 267";1205
+"JUGLANDACEAE, 1: 67";1206
+"Juglans L., 1: 67";1207
+"JUNCACEAE, 5: 102";1208
+"JUNCAGINACEAE, 5: 6";1209
+"Juncellus C. B. Clarke, 5";1210
+"Juncus L., 5: 102";1211
+"Juniperus L., 1: 46";1212
+"Jurinea Cass., 4: 218";1213
+"Jussiaea L., 2: 308";1214
+"Justicia L., 3: 284";1215
+"Kalanchoe Adanson, 1: 423";1216
+"Kalbfussia Schultz Bip., 4";1217
+"Kalidium Moq., 1: 120";1218
+"Kalmia L., 3: 10";1219
+"Kalonymus (G. Beck) Prokh., 2";1220
+"Karelinia Less., 4: 121";1221
+"Kentranthus auct., 4";1222
+"Kentrophyllum DC., 4";1223
+"Kernera Medicus, 1: 380";1224
+"Kernera Moench, non Medicus, 4";1225
+"Kerria DC., 2: 7";1226
+"Kickxia Dumort., 3: 238";1227
+"Kitaibela Willd., 2: 249";1228
+"Kleinia Miller, 4: 205";1229
+"Knautia L., 4: 60";1230
+"Kobresia Willd., 5: 289";1231
+"Kochia Roth, 1: 118";1232
+"Koeleria Pers., 5: 218";1233
+"Koelpinia Pallas, 4: 307";1234
+"Koelreuteria Medicus, 2: 239";1235
+"Koenigia L., 1: 91";1236
+"Kohlrauschia Kunth., 1: 224";1237
+"Koniga R.Br., 1: 371";1238
+"Kopsia Dumort., 3";1239
+"Kosteletzkya C. Presl, 2: 256";1240
+"Krascheninnikovia Gueldenst., 1: 117";1241
+"Krascheninnikowia Turcz., non Gueldenst., 1: 164";1242
+"Kremeria Durieu, 4";1243
+"Krubera Hoffm., 2";1244
+"Kundmannia Scop., 2: 342";1245
+"Kyllinga Rottb., 5";1246
+"LABIATAE, 3: 126";1247
+"Laburnum Fabr., 2: 86";1248
+"Lactuca L., 4: 328";1249
+"Ladanum O.Kuntze, non Rafin., 3";1250
+"Lafuentea Lag., 3: 252";1251
+"Lagarosiphon Harvey, 5: 5";1252
+"Lagenaria Ser., 2: 298";1253
+"Lagochilus Bunge, 3";1254
+"Lagoecia L., 2: 324";1255
+"Lagoseris Bieb., 4";1256
+"Lagotis Gaertner, 3: 241";1257
+"Lagurus L., 5: 225";1258
+"Lallemantia Fischer & C. A. Meyer, 3";1259
+"Lamarckia Moench, 5: 172";1260
+"Lamiastrum Heister ex Fabr., 3: 148";1261
+"Lamium L., 3: 147";1262
+"Lampranthus N.E.Br., 1: 136";1263
+"Lamyra (Cass.) Cass., 4: 242";1264
+"Lamyropsis (Charadze) Dittrich, 4: 244";1265
+"Lantana L., 3: 122";1266
+"Lapiedra Lag., 5: 78";1267
+"Lappa Scop., 4";1268
+"Lappula Gilib., 3: 117";1269
+"Lapsana L., 4: 344";1270
+"Larix Miller, 1: 40";1271
+"Laser Borkh., 2: 367";1272
+"Laserpitium L., 2: 368";1273
+"Lasiagrostis Link, 5";1274
+"Lasiopera Hoffmanns. & Link, 3";1275
+"Lasiopogon Cass., 4: 131";1276
+"Lastrea Bory, 1";1277
+"Lathraea L., 3: 281";1278
+"Lathyrus L., 2: 136";1279
+"Launaea Cass., 4: 326";1280
+"LAURACEAE, 1: 296";1281
+"Laurentia Adanson, 4: 102";1282
+"Laureola Hill, 2";1283
+"Laurocerasus M. J. Roemer, 2";1284
+"Laurus L., 1: 296";1285
+"Lavandula L., 3: 187";1286
+"Lavatera L., 2: 251";1287
+"Lecokia DC., 2: 343";1288
+"Ledum L., 3: 9";1289
+"Leersia Swartz, 5: 260";1290
+"Legousia Durande, 4: 94";1291
+"LEGUMINOSAE, 2: 80";1292
+"Lembotropis Griseb., 2: 86";1293
+"Lemna L., 5: 273";1294
+"LEMNACEAE, 5: 273";1295
+"Lens Miller, 2: 136";1296
+"LENTIBULARIACEAE, 3: 294";1297
+"Leontice L., 1: 294";1298
+"Leontodon L., 4: 310";1299
+"Leontopodium (Pers.) R. Br., 4: 132";1300
+"Leonurus L., 3: 149";1301
+"Leopoldia Parl., 5";1302
+"Lepidium L., 1: 398";1303
+"Lepidophorum Cass., 4: 173";1304
+"Lepidotis Beauv., 1: 4";1305
+"Lepidotrichum Velen. & Bornm., 1: 371";1306
+"Lepidurus Janchen, 5";1307
+"Leptaleum DC., 1: 339";1308
+"Leptoplax O.E.Schulz, 1: 358";1309
+"Lepturus R. Br., 5";1310
+"Lerchenfeldia Schur, 5";1311
+"Lereschia Boiss., 2: 353";1312
+"Leucanthemella Tzvelev, 4: 171";1313
+"Leucanthemopsis (Giroux) Heywood, 4: 172";1314
+"Leucanthemum Miller, 4: 174";1315
+"Leuceres Calestani, 2";1316
+"Leucojum L., 5: 76";1317
+"Leucorchis E. H. F. Meyer, 5: 332";1318
+"Leuzea DC., 4: 252";1319
+"Levisticum Hill, 2: 358";1320
+"Leycesteria Wall., 4: 45";1321
+"Leymus Hochst., 5: 190";1322
+"Leyscra L., 4: 133";1323
+"Libanotis Hill, 2: 334";1324
+"Ligularia Cass., 4: 205";1325
+"Ligusticum L., 2: 356";1326
+"Ligustrum L., 3: 54";1327
+"Lilaea Humb. & Bonpl., 5: 7";1328
+"LILAEACEAE, 5: 7";1329
+"Lilaeopsis E. L. Greene, 2: 339";1330
+"LILIACEAE, 5: 14";1331
+"Liliastrum Fabr., 5";1332
+"Lilium L., 5: 34";1333
+"Limnanthemum S. G. Gmelin, 3";1334
+"Limnorchis Rydb., 5";1335
+"Limodorum Boehmer, 5: 329";1336
+"Limoniastrum Heister ex Fabr., 3: 51";1337
+"Limonium Miller, 3: 38";1338
+"Limosella L., 3: 204";1339
+"LINACEAE, 2: 206";1340
+"Linaria Miller, 3: 226";1341
+"Lindernia All., 3: 203";1342
+"Linnaea L., 4: 45";1343
+"Linosyris Cass., non Ludwig, 4";1344
+"Linum L., 2: 206";1345
+"Liparis L. C. M. Richard, 5: 350";1346
+"Lippia L., 3: 123";1347
+"Liriodendron L., 1: 296";1348
+"Listera R. Br., 5: 329";1349
+"Lithodora Griseb., 3: 88";1350
+"Lithospermum L., 3: 86";1351
+"Littorella Bergius, 4: 44";1352
+"Litwinowia Woronow, 1: 342";1353
+"Livistona R. Br., 5: 267";1354
+"Lloydia Salisb. ex Reichenb., 5: 25";1355
+"Lobelia L., 4: 102";1356
+"Lobularia Desv., 1: 371";1357
+"Loeflingia L., 1: 185";1358
+"Logfia Cass., 4: 123";1359
+"Loiseleuria Desv., 3: 10";1360
+"Lolium L., 5: 153";1361
+"Lomaria Willd. spicant (L.) Desv., 1: 31";1362
+"LOMARIOPSIDACEAE, 1: 30";1363
+"Lomatogonium A. Braun, 3: 67";1364
+"Lonas Adanson, 4: 168";1365
+"Lonicera L., 4: 46";1366
+"Lophochloa Reichenb., 5: 220";1367
+"Lophoseiadium DC., 2";1368
+"LORANTHACEAE, 1: 86";1369
+"Loranthus L., 1: 86";1370
+"Loretia Duval-Jouve, 5: 155";1371
+"Loroglossum L. C. M. Richard, 5";1372
+"Lotononis (DC.) Ecklon & Zeyher, 2: 104";1373
+"Lotus L., 2: 173";1374
+"Ludwigia L., 2: 308";1375
+"Lunaria L., 1: 358";1376
+"Lunathyrium japonicum auct.,non (Thunb.)Kurata, 1: 24";1377
+"Lupinus L., 2: 105";1378
+"Lupsia O. Kuntze, 4";1379
+"Luronium Rafin., 5: 2";1380
+"Lutzia cretica (L.) Greuter & Burdet, 1: 359";1381
+"Luzula DC., 5: 111";1382
+"Lychnis L., 1: 189";1383
+"Lycium L., 3: 193";1384
+"Lycocarpus O.E.Schulz, 1: 321";1385
+"Lycopersicon Miller, 3: 199";1386
+"LYCOPODIACEAE, 1: 3";1387
+"Lycopodiella J.Holub, 1: 3";1388
+"Lycopodium L., 1: 4";1389
+"Lycopsis L., 3: 106";1390
+"Lycopus L., 3: 183";1391
+"Lygeum Loefl. ex L., 5: 255";1392
+"Lygia Fasano, 2";1393
+"Lygos Adanson, 2: 101";1394
+"Lyonnetia Cass., 4";1395
+"Lyrolepis Rech. fil., 4: 208";1396
+"Lysichiton Schott, 5: 269";1397
+"Lysiella Rydb., 5";1398
+"Lysimachia L., 3: 26";1399
+"LYTHRACEAE, 2: 300";1400
+"Lythrum L., 2: 300";1401
+"Maclura Nutt., 1: 78";1402
+"Macrochloa Kunth, 5";1403
+"Macrosyringion Rothm., 3: 266";1404
+"Macrotomia DC., 3: 89";1405
+"Magnolia, 1: 296";1406
+"MAGNOLIACEAE, 1: 296";1407
+"Magydaris Koch ex DC., 2: 344";1408
+"Mahonia Nutt., 1: 296";1409
+"Maianthemum Weber, 5: 70";1410
+"Maillea Parl., 5";1411
+"Majorana Miller, 3";1412
+"Malabaila Hoffm., 2: 366";1413
+"Malachium Fries., 1: 176";1414
+"Malaxis Solander ex Swartz, 5";1415
+"Malcolmia R.Br., 1: 337";1416
+"Malope L., 2: 249";1417
+"Malus Miller, 2: 66";1418
+"Malva L., 2: 249";1419
+"MALVACEAE, 2: 248";1420
+"Malvella Jaub. & Spach, 2: 249";1421
+"Mandragora L., 3: 199";1422
+"Mantisalca Cass., 4: 254";1423
+"Maresia Pomel, 1: 339";1424
+"Margotia Boiss., 2";1425
+"Mariana Hill, 4";1426
+"Marrubium L., 3: 137";1427
+"Marsdenia R. Br., 3";1428
+"Marsilea L., 1: 31";1429
+"MARSILEACEAE, 1: 31";1430
+"MARTYNIACEAE, 3: 284";1431
+"Maruta Cass., 4";1432
+"Matricaria L., 4: 165";1433
+"Matteuccia Tod., 1: 26";1434
+"Matthiola R.Br., 1: 340";1435
+"Mattia Schultes, 3";1436
+"Mattiastrum (Boiss.) Brand, 3: 121";1437
+"Maytenus Molina, 2: 242";1438
+"Meconopsis Vig., 1: 301";1439
+"Medicago L., 2: 153";1440
+"Megacarpaea DC., 1: 398";1441
+"Melampyrum L., 3: 253";1442
+"Melandrium Rohling, 1: 211";1443
+"Melanoloma Cass., 4";1444
+"Melanoselinum Hoffm., 2: 371";1445
+"Melia L., 2: 231";1446
+"MELIACEAE, 2: 231";1447
+"Melica L., 5: 178";1448
+"Melilotus Miller, 2: 148";1449
+"Melissa L., 3: 162";1450
+"Melitella Sommier, 4";1451
+"Melittis L., 3: 143";1452
+"Melo Adanson, 2";1453
+"Meniocus linifolius (Stephan ex Willd.) DC., 1: 363";1454
+"Mentha L., 3: 183";1455
+"MENYANTHACEAE, 3: 67";1456
+"Menyanthes L., 3: 67";1457
+"Mercurialis L., 2: 212";1458
+"Merendera Ramond, 5: 25";1459
+"Mertensia Roth, 3: 109";1460
+"Mesembryanthemum L., 1: 135";1461
+"Mespilus L., 2: 73";1462
+"Metabasis DC., 4";1463
+"Meum Miller, 2: 342";1464
+"Mibora Adanson, 5: 173";1465
+"Microcala Hoffmanns. & Link, 3";1466
+"Microcnemum Ung.-Sternb., 1: 123";1467
+"Microderis DC., 4: 310";1468
+"Microlonchus Cass., 4";1469
+"Micromeria Bentham, 3: 167";1470
+"Micropus L., 4: 126";1471
+"Micropyrum Link, 5: 157";1472
+"Microrhynchus Less., 4: 326";1473
+"Microstylis (Nutt.) A. Eaton, 5: 350";1474
+"Middendorfia Trautv., 2: 300";1475
+"Milium L., 5: 245";1476
+"Milla Cav., 5";1477
+"Millegrana Adanson, 2";1478
+"Mimulus L., 3: 204";1479
+"Minaea Lojac., 1: 383";1480
+"Minuartia L., 1: 152";1481
+"Mirabilis L., 1: 134";1482
+"Misopates Rafin., 3: 224";1483
+"Modiola Moench, 2: 255";1484
+"Moehringia L., 1: 148";1485
+"Moenchia Ehrh., 1: 175";1486
+"Molineria Parl., non Colla, 5: 228";1487
+"Molineriella Rouy, 5: 228";1488
+"Molinia Moench, 5: 254";1489
+"MOLLUGINACEAE, 1: 137";1490
+"Mollugo L., 1: 137";1491
+"Molopospermum Koch, 2: 327";1492
+"Moltkia Lchm., 3: 95";1493
+"Moluccella L., 3: 149";1494
+"Momordica L., 2";1495
+"Monerma Beauv., 5";1496
+"Moneses Salisb., 3: 4";1497
+"Monochoria C. Presl, 5: 86";1498
+"Monotropa L., 3: 5";1499
+"Montbretia DC., 5";1500
+"Montia L., 1: 138";1501
+"MORACEAE, 1: 77";1502
+"Morgagnia Bubani, 5";1503
+"Moricandia DC., 1: 403";1504
+"Morina L., 4: 56";1505
+"Morisia Gay, 1: 416";1506
+"Morocarpus foliosus Moench, 1: 113";1507
+"Morus L., 1: 77";1508
+"Mucizonia (DC.) A.Berger, 1: 425";1509
+"Muehlenbeckia Meissner, 1: 107";1510
+"Mulgedium Cass., 4";1511
+"Murbeckiella Rothm., 1: 321";1512
+"Muretia Boiss., 2: 330";1513
+"Musa L., 5: 323";1514
+"MUSACEAE, 5: 323";1515
+"Muscadinia Small, 2";1516
+"Muscari Miller, 5: 46";1517
+"Muscarimia Kostel., 5";1518
+"Mutellina Thell., 2";1519
+"Myagrum L., 1: 323";1520
+"Mycelis Cass., 4: 331";1521
+"Myconella Sprague, 4";1522
+"Myconia Schultz Bip., non Lapeyr., 4";1523
+"MYOPORACEAE, 3: 297";1524
+"Myoporum Solander ex G. Forster, 3: 297";1525
+"Myosotis L., 3: 111";1526
+"Myosoton Moench, 1: 176";1527
+"Myosurus L., 1: 286";1528
+"Myrica L., 1: 66";1529
+"MYRICACEAE, 1: 66";1530
+"Myricaria Desv., 2: 294";1531
+"Myriophyllum L., 2: 311";1532
+"Myrrhis Miller, 2: 327";1533
+"Myrrhoides Heister ex Fabr., 2: 324";1534
+"MYRSINACEAE, 3: 14";1535
+"Myrsine L., 3: 14";1536
+"Myrsiphyllum Willd., 5";1537
+"MYRTACEAE, 2: 303";1538
+"Myrtus L., 2: 303";1539
+"NAJADACEAE, 5: 13";1540
+"Najas L., 5: 13";1541
+"Nananthea DC., 4: 178";1542
+"Nanophyton Less., 1: 129";1543
+"Narcissus L., 5: 78";1544
+"Nardosmia Cass., 4: 186";1545
+"Narduroides Rouy, 5: 157";1546
+"Nardurus Reichenb., 5: 156";1547
+"Nardus L., 5: 255";1548
+"Narthecium Hudson, 5: 16";1549
+"Nasturtium R.Br., 1: 345";1550
+"Naufraga Constance & Cannon, 2: 319";1551
+"Naumburgia Moench, 3";1552
+"Neatostema I. M. Johnston, 3: 86";1553
+"Nectaroscordum Lindley, 5: 69";1554
+"Negundo Moench, 2";1555
+"Nelumbium Juss., 1: 248";1556
+"Nelumbo Adanson, 1: 247";1557
+"NELUMBONACEAE, 1: 247";1558
+"Nemophila Nutt., 3: 83";1559
+"Neogaya Meissner, 2";1560
+"Neotinea Reichenb. fil., 5: 337";1561
+"Neotorularia Hedge & J.Leonard, 1: 339";1562
+"Neottia Ludwig, 5: 329";1563
+"Neottianthe Schlechter, 5: 331";1564
+"Nepa Webb, 2: 103";1565
+"Nepeta L., 3: 158";1566
+"Nephrodium L. C. M. Richard, 1";1567
+"Nerium L., 3: 68";1568
+"Neslia Desv., 1: 381";1569
+"Nicandra Adanson, 3: 193";1570
+"Nicotiana L., 3: 201";1571
+"Nigella L., 1: 251";1572
+"Nigritella L. C. M. Richard, 5: 332";1573
+"Nitraria L., 2: 205";1574
+"Noaea Moq., 1: 128";1575
+"Noccaea alpina (L.) Reichenb., 1: 382";1576
+"Nolletia Cass., 4: 120";1577
+"Nonea Medicus, 3: 102";1578
+"Nonnea auct., 3";1579
+"Notelaea Vent., 3";1580
+"Nothofagus Blume, 1: 72";1581
+"Notholaena R. Br., 1: 13";1582
+"Nothoscordum Kunth, 5: 69";1583
+"Notobasis Cass., 4: 242";1584
+"Notoceras R.Br., 1: 341";1585
+"Nuphar Sm., 1: 247";1586
+"NYCTAGINACEAE, 1: 133";1587
+"Nymphaea L., 1: 246";1588
+"NYMPHAEACEAE, 1: 246";1589
+"Nymphoides Seguier, 3: 68";1590
+"Nymphosanthus Steudel, 1: 247";1591
+"Obione Gaertner, 1: 117";1592
+"Odontitella Rothm., 3: 266";1593
+"Odontites Ludwig, 3: 266";1594
+"Odontolophus Cass., 4";1595
+"Odontospermum Schultz Bip., 4";1596
+"Oenanthe L., 2: 338";1597
+"Oenothera L., 2: 306";1598
+"OENOTHERACEAE, 2: 305";1599
+"Ofaiston Rafin., 1: 128";1600
+"Oglifa Cass., 4";1601
+"Olea L., 3: 55";1602
+"OLEACEAE, 3: 52";1603
+"Omalocline Cass., 4";1604
+"Omalotheca Cass., 4: 126";1605
+"Omphalodes Miller, 3: 118";1606
+"Onagra Miller, 2";1607
+"ONAGRACEAE, 2: 305";1608
+"Onobrychis Miller, 2: 187";1609
+"Onoclea L., 1: 26";1610
+"Ononis L., 2: 143";1611
+"Onopordum L., 4: 244";1612
+"Onosma L., 3: 89";1613
+"Onychium japonicum (Thunb,) G.Kunze, 1: 14";1614
+"OPHIOGLOSSACEAE, 1: 9";1615
+"Ophioglossum L., 1: 9";1616
+"Ophrys L., 5: 344";1617
+"Oplismenus Beauv., 5: 261";1618
+"Opopanax Koch, 2: 360";1619
+"Oporanthus Herbert, 5";1620
+"Opuntia Miller, 2: 299";1621
+"ORCHIDACEAE, 5: 325";1622
+"Orchis L., 5: 337";1623
+"Oreochloa Link, 5: 177";1624
+"Oreoherzogia W. Vent, 2: 245";1625
+"Oreopteris J.Holub, 1: 17";1626
+"Origanum L., 3: 171";1627
+"Orlaya Hoffm., 2: 372";1628
+"Ormenis (Cass.) Cass., 4";1629
+"Ornithogalum L., 5: 35";1630
+"Ornithopus L., 2: 182";1631
+"Ornus Boehmer, 3";1632
+"OROBANCHACEAE, 3: 285";1633
+"Orobanche L., 3: 286";1634
+"Orobus L., 2: 136";1635
+"Orostachys (DC.) Fischer ex Sweet, 1: 437";1636
+"Ortegia L, 1: 185";1637
+"Orthantha (Bentham) A. Kerner, 3";1638
+"Orthilia Rafin., 3: 4";1639
+"Orvala L., 3";1640
+"Oryza L., 5: 260";1641
+"Oryzopsis auct. eur., non Michx, 5: 246";1642
+"Oscularia Schwantes, 1: 136";1643
+"Osmunda L., 1: 11";1644
+"OSMUNDACEAE, 1: 11";1645
+"Ostericum Hoffm., 2: 357";1646
+"Ostrya Scop., 1: 71";1647
+"Osyris L., 1: 82";1648
+"Otanthus Hoffmanns. & Link, 4: 168";1649
+"Otites Adanson, 1: 191";1650
+"Otocarpum Willk., 4";1651
+"Otospermum Willk., 4: 172";1652
+"Ottelia Pers., 5: 4";1653
+"OXALIDACEAE, 2: 192";1654
+"Oxalis L., 2: 192";1655
+"Oxybaphus L'Her. ex Willd., 1: 134";1656
+"Oxycoccus Hill, 3";1657
+"Oxygraphis Bunge glacialis (Fischer) Bunge, 1: 283";1658
+"Oxyria Hill, 1: 99";1659
+"Oxytropis DC., 2: 124";1660
+"Pachyphragma macrophyllum (Hoffm.) N.Busch, 1: 384";1661
+"Pachypleurum  Ledeb., 2";1662
+"Padus Miller, 2";1663
+"Paederota L., 3: 252";1664
+"Paeonia L., 1: 292";1665
+"PAEONIACEAE, 1: 292";1666
+"Palaeocyanus Dostal, 4: 249";1667
+"Palhinhaea Franco & Vasc., 1: 4";1668
+"Palimbia Besser, 2: 358";1669
+"Paliurus Miller, 2: 243";1670
+"Pallenis (Cass.) Cass., 4: 139";1671
+"PALMAE, 5: 267";1672
+"Pancicia Vis., 2: 331";1673
+"Pancratium L., 5: 84";1674
+"Panicum L., 5: 261";1675
+"Papaver, L., 1: 297";1676
+"PAPAVERACEAE, 1: 297";1677
+"Paracaryum Boiss., 3";1678
+"Paraceterach marantae (L.) R.M.Tryon jun., 1: 13";1679
+"Paradisea Mazzuc., 5: 18";1680
+"Parapholis C. E. Hubbard, 5: 243";1681
+"Parentucellia Viv., 3: 269";1682
+"Parietaria L., 1: 80";1683
+"Paris L., 5: 71";1684
+"PARKERIACEAE, 1: 11";1685
+"Parnassia L., 1: 460";1686
+"PARNASSIACEAE, 1: 460";1687
+"Paronychia Miller, 1: 179";1688
+"Parrya R.Br., 1: 340";1689
+"Parthenocissus Planchon, 2: 246";1690
+"Parvotrisetum Chrtek, 5: 225";1691
+"Paspalum L., 5: 263";1692
+"Passerina L., 2";1693
+"Passiflora L., 2: 282";1694
+"PASSIFLORACEAE, 2: 282";1695
+"Pastinaca L., 2: 364";1696
+"Pastorea Tod., 1: 383";1697
+"Patrinia Juss., 4: 48";1698
+"PEDALIACEAE, 3: 284";1699
+"Pedicularis L., 3: 269";1700
+"Peganum L., 2: 205";1701
+"Pelargonium L'Her., 2: 193";1702
+"Pellaea Link, 1: 13";1703
+"Peltaria Jacq., 1: 358";1704
+"Peltiphyllum peltatum (Torrey ex Benth.) Engler, 1: 437";1705
+"Pendulina Willk., 1: 404";1706
+"Pennisetum L. C. M. Rickard, 5: 264";1707
+"Pentaglottis Tausch, 3: 109";1708
+"Pentapera Klotzsch, 3";1709
+"Peplis L., 2: 300";1710
+"Peramium Salisb. ex Curtiss, 5";1711
+"Periballia Trin., 5: 228";1712
+"Perideraea Webb, 4";1713
+"Perilla L., 3: 186";1714
+"Periploca L., 3: 70";1715
+"Pernettya Gaud.-Beaupre, 3: 11";1716
+"Persea Miller, 1: 297";1717
+"Persica Miller, 2";1718
+"Persicaria Miller see Polygonum Sect. Persicaria, 1: 95";1719
+"Petagnia Guss., 2: 324";1720
+"Petasites Miller, 4: 186";1721
+"Petkovia Stefanov, 4";1722
+"Petrocallis R.Br., 1: 378";1723
+"Petrocoptis A.Braun, 1: 190";1724
+"Petromarula Vent. ex Hedwig fil., 4: 95";1725
+"Petrorhagia (Ser. ex DC.) Link, 1: 224";1726
+"Petroselinum Hill, 2: 352";1727
+"Petrosimonia Bunge, 1: 129";1728
+"Petteria C. Presl, 2: 101";1729
+"Petunia Juss., 3: 193";1730
+"Peucedanum L., 2: 360";1731
+"Phaca L., 2";1732
+"Phacelia Juss., 3: 83";1733
+"Phacelurus Griseb., 5: 266";1734
+"Phaeopappus (DC.) Boiss., 4";1735
+"Phagnalon Cass., 4: 133";1736
+"Phalacrachena Iljin, 4: 25";1737
+"Phalacrocarpum Willk., 4: 172";1738
+"Phalangium Miller, 5";1739
+"Phalaris L., 5: 244";1740
+"Phalaroides N. M. Wolf, 5";1741
+"Pharbitis Choisy, 3: 82";1742
+"Phaseolus L., 2: 128";1743
+"Phegopteris (C.Presl) Fee, 1: 18";1744
+"Phellodendron Rupr., 2: 230";1745
+"Phelypaea L., 3: 294";1746
+"Philadelphus L., 1: 460";1747
+"Phillyrea L., 3: 55";1748
+"Phippsia R. Br., 5: 169";1749
+"Phleum L., 5: 239";1750
+"Phlomis L., 3: 144";1751
+"Phoenix L., 5: 268";1752
+"Phoenixopus Cass., 4";1753
+"Pholiurus Trin., 5: 243";1754
+"Phormium J. R. & G. Forster, 5: 19";1755
+"Phragmites Adanson, 5: 253";1756
+"Phyllitis Hill, 1: 23";1757
+"Phyllitopsis hybrida (Milde) Reichstein, 1: 23";1758
+"Phyllodoce Salisb., 3: 10";1759
+"Phyllostachys Siebold & Zucc., 5: 125";1760
+"Physalis L., 3: 196";1761
+"Physanthyllis Boiss., 2: 177";1762
+"Physocarpus (Camb.) Maxim., 2: 4";1763
+"Physocaulis (DC.) Tausch, 2: 324";1764
+"Physoplexis (Endl.) Schur, 4: 98";1765
+"Physospermum Cusson, 2: 342";1766
+"Phyteuma L., 4: 95";1767
+"Phytolacca L., 1: 134";1768
+"PHYTOLACCACEAE, 1: 134";1769
+"Picconia DC., 3: 55";1770
+"Picea A.Dietr., 1: 39";1771
+"Picnomon Adanson, 4: 242";1772
+"Picridium Desf., 4: 325";1773
+"Picris L., 4: 315";1774
+"Pietrosia E. I. Nyarady, 4";1775
+"Pilea Lindley, 1: 80";1776
+"Pilosella Hill, 4: 358";1777
+"Pilularia L., 1: 32";1778
+"Pimpinella L., 2: 331";1779
+"PINACEAE, 1: 37";1780
+"Pinardia Cass., 4";1781
+"Pinguicula L., 3: 294";1782
+"Pinus L., 1: 40";1783
+"Piptatherum Beauv., 5: 246";1784
+"Piptocephalum Schultz Bip., 4";1785
+"Pirus auct., 2";1786
+"Pistacia L., 2: 237";1787
+"Pistorinia DC., 1: 424";1788
+"Pisum L., 2: 143";1789
+"PITTOSPORACEAE, 1: 462";1790
+"Pittosporum Gaermer, 1: 462";1791
+"Pityrogramma calomelanos (L.) Link, 1: 11";1792
+"Plagius L'Her.ex DC., 4: 177";1793
+"PLANTAGINACEAE, 4: 38";1794
+"Plantago L., 4: 38";1795
+"PLATANACEAE, 1: 463";1796
+"Platanthera L. C. M. Richard, 5: 331";1797
+"Platanus L., 1: 463";1798
+"Platycapnos (DC.) Bernh., 1: 311";1799
+"Pleioblastus Nakai, 5";1800
+"Pleurogyne Eschsch. ex Griseb., 3";1801
+"Pleuropogon R. Br., 5: 181";1802
+"Pleurosorus Fee, 1: 23";1803
+"Pleurospermum Hoffm., 2: 343";1804
+"PLUMBAGINACEAE, 3: 29";1805
+"Plumbago L., 3: 30";1806
+"Poa L., 5: 159";1807
+"Poaceae, 5: 118";1808
+"Pocockia Ser., 2";1809
+"Podanthum Boiss., 4";1810
+"Podocytisus Boiss. & Heldr., 2: 86";1811
+"Podospermum DC., 4: 317";1812
+"Polanisia Rafin., 1: 312";1813
+"POLEMONIACEAE, 3: 73";1814
+"Polemonium L., 3: 74";1815
+"Pollinia Sprengel, 5";1816
+"Polycarpon Loefl. ex L., 1: 184";1817
+"Polycnemum L., 1: 110";1818
+"Polygala L., 2: 231";1819
+"POLYGALACEAE, 2: 231";1820
+"POLYGONACEAE, 1: 91";1821
+"Polygonatum Miller, 5: 70";1822
+"Polygonum L., 1: 91";1823
+"POLYPODIACEAE, 1: 15";1824
+"Polypodium L., 1: 15";1825
+"Polypogon Desf., 5: 235";1826
+"Polystichum Roth, 1: 27";1827
+"Pongelion Adanson, 2";1828
+"Pontederia L., 5: 85";1829
+"PONTEDERIACEAE, 5: 85";1830
+"Populus L., 1: 64";1831
+"Portenschlagia Vis., non Tratt., 2: 340";1832
+"Portenschlagiella Tutin, 2: 340";1833
+"Portulaca L., 1: 137";1834
+"PORTULACACEAE, 1: 137";1835
+"Posidonia C. Konig, 5: 12";1836
+"POSIDONIACEAE, 5: 11";1837
+"Potamogeton L., 5: 7";1838
+"POTAMOGETONACEAE, 5: 7";1839
+"Potentilla L., 2: 36";1840
+"Poterium L., 2";1841
+"Prangos Lindley, 2: 343";1842
+"Prasium L., 3: 137";1843
+"Prenanthes L., 4: 331";1844
+"Preslia Opiz, 3";1845
+"Primula L., 3: 15";1846
+"PRIMULACEAE, 3: 14";1847
+"Prionitis Adanson. non J. Agardh, 2";1848
+"Pritzelago O.Kuntze, 1: 382";1849
+"Proboscidea Schmidel, 3: 284";1850
+"Procopiania Gusuleac, 3: 105";1851
+"Prolongoa Boiss., 4: 173";1852
+"PROTEACEAE, 1: 82";1853
+"Prunella L., 3: 162";1854
+"Prunus L., 2: 77";1855
+"Psamma Beauv., 5";1856
+"Psathyrostachys Nevski, 5: 204";1857
+"Psephellus Cass., 4";1858
+"Pseudarrhenatherum Rouy, 5: 217";1859
+"Pseudofumaria Medicus, 1: 305";1860
+"Pseudolysimachium (Koch) Opiz, 3: 242";1861
+"Pseudorchis Seguier, 5: 332";1862
+"Pseudorchis(2) S. F. Gray, non Seguier, 5";1863
+"Pseudorlaya (Murb.) Murb., 2: 375";1864
+"Pseudosasa Makino, 5";1865
+"Pseudosecale (Godron) Degen, 5";1866
+"Pseudostellaria Pax, 1: 164";1867
+"Pseudotsuga Carriere, 1: 38";1868
+"Psilathera Link, 5";1869
+"Psilostemon DC. & A. DC., 3";1870
+"PSILOTACEAE, 1: 3";1871
+"Psilotum Swartz, 1: 3";1872
+"Psilurus Trin., 5: 173";1873
+"Psoralea L., 2: 127";1874
+"Psylliostachys (Jaub. & Spach) Nevski, 3: 51";1875
+"Ptarmica Miller, 4";1876
+"Ptelea L., 2: 230";1877
+"Pteranthus Forskal, 1: 184";1878
+"PTERIDACEAE, 1: 14";1879
+"Pteridium Gled. ex Scop., 1: 16";1880
+"Pteris L., 1: 14";1881
+"Pterocarya Kunth, 1: 68";1882
+"Pterocephalus Adanson, 4: 68";1883
+"Pterospartum (Spach) Willk., 2: 100";1884
+"Pterotheca Cass., 4";1885
+"Ptilostemon Cass., 4: 242";1886
+"Ptilotrichum C.A.Meyer, 1: 359";1887
+"Ptychotis Koch, 2: 353";1888
+"Pubilaria Rafin., 5";1889
+"Puccinellia Parl., 5: 167";1890
+"x Pucciphippsia Tzvelev, 5: 169";1891
+"Pulegium Miller, 3";1892
+"Pulicaria Gaertner, 4: 137";1893
+"Pulmonaria L., 3: 100";1894
+"Pulsatilla Miller, 1: 264";1895
+"Punica L., 2: 305";1896
+"PUNICACEAE, 2: 305";1897
+"Putoria Pers., 4: 3";1898
+"Pycnocomon Hoffmanns. & Link, 4: 74";1899
+"Pycreus Beauv., 5";1900
+"Pyracantha M. J. Roemer, 2: 73";1901
+"Pyrethrum Zinn, 4";1902
+"Pyrola L., 3: 3";1903
+"PYROLACEAE, 3: 3";1904
+"Pyrus L., 2: 65";1905
+"Queltia Salisb. ex Haw., 5";1906
+"Quercus L., 1: 72";1907
+"Queria L., 1: 152";1908
+"Radiola Hill, 2: 211";1909
+"RAFFLESIACEAE, 1: 90";1910
+"Ramischia Opiz ex Garcke, 3: 4";1911
+"Ramonda L. C. M. Richard, 3: 285";1912
+"Ramondia auct., 3";1913
+"RANUNCULACEAE, 1: 248";1914
+"Ranunculus L., 1: 269";1915
+"Raphanus L., 1: 417";1916
+"Rapistrum Crantz, 1: 414";1917
+"Razoumofskya oxycedri (DC.) F.W.Schultz, 1: 87";1918
+"Reaumuria Hasselq. ex L., 2: 292";1919
+"Reichardia Roth, 4: 325";1920
+"Reseda L., 1: 418";1921
+"RESEDACEAE, 1: 417";1922
+"Retama Boiss., 2: 101";1923
+"Reutera Boiss., 2: 331";1924
+"Reynoutria Houtt., 1: 98";1925
+"Rhacoma Adanson, non L., 4";1926
+"Rhagadiolus Zinn, 4: 308";1927
+"RHAMNACEAE, 2: 243";1928
+"Rhamnus L., 2: 244";1929
+"Rhaponticum Adanson, non Ludwig, 4: 252";1930
+"Rhazya Decne, 3: 68";1931
+"Rheum L., 1: 99";1932
+"Rhinanthus L., 3: 276";1933
+"Rhizobotrya Tausch, 1: 380";1934
+"Rhodalsine Gay, 1";1935
+"Rhodalsine geniculata (Poiret) F.N.Williams, 1: 160";1936
+"Rhodiola L., 1: 436";1937
+"x Rhodocinium Avr., 3";1938
+"Rhodococcum (Rupr.) Avr., 3";1939
+"Rhododendron L., 3: 8";1940
+"Rhodostachys Philippi, 5";1941
+"Rhodothamnus Reichenb., 3: 10";1942
+"Rhodotypos Siebold & Zuee., 2: 7";1943
+"Rhus L., 2: 236";1944
+"Rhynchocorys Griseb., 3: 280";1945
+"Rhynchosinapis Hayek, 1: 411";1946
+"Rhynchospora Vahl, 5: 288";1947
+"Ribes L., 1: 461";1948
+"Richardia Kunth, 5";1949
+"Ricinus L., 2: 212";1950
+"Ricotia L., 1: 358";1951
+"Ridolfia Moris, 2: 352";1952
+"Rindera Pallas, 3: 121";1953
+"Robertia DC., non Seop., 4";1954
+"Robinia L., 2: 106";1955
+"Rochelia Reichenb., 3: 110";1956
+"Rodigia Sprengel, 4";1957
+"Roegneria C. Koch, 5: 192";1958
+"Roemeria Medicus, 1: 301";1959
+"Romulea Maratti, 5: 99";1960
+"Rorippa Scop., 1: 344";1961
+"Rosa L., 2: 25";1962
+"ROSACEAE, 2: 3";1963
+"Rosmarinus L., 3: 187";1964
+"Rosularia (DC.) Stapf, 1: 437";1965
+"Rotala L., 2: 303";1966
+"Rothmaleria Font Quer, 4: 305";1967
+"Rottboellia L. fil., 5";1968
+"Rouya Coincy, 2: 370";1969
+"Rubia L., 4: 38";1970
+"RUBIACEAE, 4: 3";1971
+"Rubus L., 2: 7";1972
+"Rudbeckia L., 4: 141";1973
+"Rumex L., 1: 99";1974
+"Rumia Hoffm., 2";1975
+"Rupicapnos Pomel, 1: 311";1976
+"Ruppia L., 5: 11";1977
+"RUPPIACEAE, 5: 11";1978
+"Ruschia caroli (L.Bolus) Schwantes, 1: 135";1979
+"Ruscus L., 5: 73";1980
+"Ruta L., 2: 227";1981
+"RUTACEAE, 2: 227";1982
+"Rynchospora auct., 5";1983
+"Saccharum L., 5: 265";1984
+"Sagina L., 1: 176";1985
+"Sagittaria L., 5: 1";1986
+"SALICACEAE, 1: 53";1987
+"Salicornia L., 1: 121";1988
+"Salix L., 1: 53";1989
+"Salpichroa Miers, 3: 196";1990
+"Salpiglossis Ruiz & Pavon, 3: 193";1991
+"Salsola L., 1: 125";1992
+"Salvia L., 3: 188";1993
+"Salvinia Seguier, 1: 32";1994
+"SALVINIACEAE, 1: 32";1995
+"Sambucus L., 4: 44";1996
+"Samolus L., 3: 29";1997
+"Sanguisorba L., 2: 33";1998
+"Sanicula L., 2: 320";1999
+"SANTALACEAE, 1: 82";2000
+"Santolina L., 4: 144";2001
+"SAPINDACEAE, 2: 239";2002
+"Saponaria L., 1: 223";2003
+"Sarcocapnos DC., 1: 305";2004
+"Sarcocornia perennis (Miller) A.J.Scott, 1: 121";2005
+"Sarcopoterium Spach, 2: 34";2006
+"Sarothamnus Wimmer, 2";2007
+"Sarothra L., 2";2008
+"Sarracenia L., 1: 421";2009
+"SARRACENIACEAE, 1: 421";2010
+"Sasa Makino & Shibata, 5: 124";2011
+"Satureja L., 3: 163";2012
+"Saussurea DC., 4: 216";2013
+"Saxifraga L., 1: 437";2014
+"SAXIFRAGACEAE, 1: 437";2015
+"Scabiosa L., 4: 68";2016
+"Scaligeria DC., 2: 328";2017
+"Scandix L., 2: 326";2018
+"Scariola F. W. Schmidt, 4: 328";2019
+"Scheuchzeria L., 5: 6";2020
+"SCHEUCHZERIACEAE, 5: 6";2021
+"Schinus L., 2: 237";2022
+"Schismus Beauv., 5: 253";2023
+"Schivereckia Andrz., 1: 372";2024
+"Schizachne Hackel, 5: 179";2025
+"Schizanthus Ruiz & Pavon, 3: 193";2026
+"Schkuhria Roth, 4: 144";2027
+"Schoenodorus Roemer & Schultes, 5";2028
+"Schoenoplectus (Reichenb.) Palla, 5: 277";2029
+"Schoenus L., 5: 281";2030
+"Scilla L., 5: 41";2031
+"Scirpoides Seguier, 5";2032
+"Scirpus L., 5: 277";2033
+"Scleranthus L., 1: 178";2034
+"Sclerocaryopsis Brand, 3";2035
+"Sclerochloa Beauv., 5: 170";2036
+"Sclerochorton Boiss., 2: 333";2037
+"Scleropoa Griseb., 5: 158";2038
+"Scolochloa Link, 5: 245";2039
+"Scolopendrium Adanson, 1: 23";2040
+"Scolymus L., 4: 304";2041
+"Scopolia Jacq., 3: 194";2042
+"Scorpiurus L., 2: 185";2043
+"Scorzonera L., 4: 317";2044
+"Scrophularia L., 3: 216";2045
+"SCROPHULARIACEAE, 3: 202";2046
+"Scutellaria L., 3: 135";2047
+"Secale L., 5: 203";2048
+"Securigera DC., 2: 177";2049
+"Securinega Commerson, 2: 211";2050
+"Sedum L., 1: 429";2051
+"Selaginella Beauv., 1: 5";2052
+"SELAGINELLACEAE, 1: 5";2053
+"Selinum L., 2: 355";2054
+"Semiarundinaria Nakai, 5";2055
+"Sempervivum L., 1: 425";2056
+"Senebiera DC., 1: 402";2057
+"Senecillis Gaertner, 4: 205";2058
+"Senecio L., 4: 191";2059
+"Sequoia Endl., 1: 44";2060
+"Sequoiadendron Buchholz, 1: 44";2061
+"Serapias L., 5: 343";2062
+"Seriola L., 4";2063
+"Serrafalcus Parl., 5";2064
+"Serratula L., 4: 250";2065
+"Sesamoides Ortega, 1: 420";2066
+"Sesamum L., 3: 284";2067
+"Seseli L., 2: 334";2068
+"Sesleria Scop., 5: 173";2069
+"Sesleriella Deyl, 5";2070
+"Sesuvium portulacastrum L., 1: 135";2071
+"Setaria Beauv., 5: 263";2072
+"Setariopsis Scribner ex Millsp., 5";2073
+"Sherardia L., 4: 3";2074
+"Sibbaldia L., 2: 47";2075
+"Sibiraea Maxim., 2: 6";2076
+"Sibthorpia L., 3: 252";2077
+"Sicyos L., 2: 299";2078
+"Sida L., 2: 249";2079
+"Sideritis L., 3: 138";2080
+"Sieglingia Bernh., 5";2081
+"Sieversia Willd., 2";2082
+"Sigesbeckia L., 4: 140";2083
+"Silaum Miller, 2: 342";2084
+"Silaus Bernh., 2";2085
+"Silene L., 1: 191";2086
+"Siler Crantz, 2";2087
+"Silphium L., 4: 142";2088
+"Silybum Adanson, 4: 249";2089
+"SIMAROUBACEAE, 2: 230";2090
+"Simbuleta Forskal, 3: 220";2091
+"Simethis Kunth, 5: 19";2092
+"Sinapis L., 1: 409";2093
+"Siphonostegia Bentham, 3: 281";2094
+"Sison L., 2: 352";2095
+"Sisymbrella Spach, 1: 343";2096
+"Sisymbrium L., 1: 318";2097
+"Sisyrinchium L., 5: 86";2098
+"Sium L., 2: 333";2099
+"Smilacina Desf., 5: 70";2100
+"Smilax L., 5: 74";2101
+"Smyrnium L., 2: 328";2102
+"Sobolewskia Bieb., 1: 323";2103
+"Soja Moeneh, 2";2104
+"SOLANACEAE, 3: 193";2105
+"Solanum L., 3: 197";2106
+"Soldanella L., 3: 23";2107
+"Soleirolia Gaud.-Beaup., 1: 81";2108
+"Solenanthus Ledeb., 3: 121";2109
+"Solenopsis C. Presl, 4";2110
+"Solidago L., 4: 110";2111
+"Soliva Ruiz & Pavon, 4: 178";2112
+"Solmsiella heegeri (Solms-Laub.) Borbas, 1: 382";2113
+"Sonchus L., 4: 327";2114
+"Sophora L., 2: 85";2115
+"Sorbaria (Ser.) A. Braun, 2: 4";2116
+"Sorbus L., 2: 67";2117
+"Sorghum Moench, 5: 265";2118
+"Soyeria Monnier, 4";2119
+"SPARGANIACEAE, 5: 274";2120
+"Sparganium L., 5: 274";2121
+"Spartina Schreber, 5: 259";2122
+"Spartium L., 2: 101";2123
+"Specularia A. DC., 4: 94";2124
+"Spergula L., 1: 185";2125
+"Spergularia (Pers.) J. & C.Presl, 1: 186";2126
+"Sphenopus Trin., 5";2127
+"Spinacia L., 1: 115";2128
+"Spiraea L., 2: 4";2129
+"Spiranthes L. C. M. Richard, 5: 330";2130
+"Spiroceratium H. Wolff, 2: 332";2131
+"Spirodela Schleiden, 5: 273";2132
+"Spitzelia Schultz Bip., 4";2133
+"Sporobolus R. Br., 5: 257";2134
+"Staehelina L., 4: 217";2135
+"Stachys L., 3: 151";2136
+"Staphylea L., 2: 242";2137
+"STAPHYLEACEAE, 2: 242";2138
+"Statice L., 3";2139
+"Stauracanthus Link, 2: 103";2140
+"Stefanoffia H. Wolff, 2: 354";2141
+"Stegnogramma Blume, 1: 18";2142
+"Stellaria L., 1: 161";2143
+"Stellera Guss., 2: 260";2144
+"Stemmacantha Cass., 4";2145
+"Stenactis Cass., 4: 116";2146
+"Stenotaphrum Trin., 5: 263";2147
+"Steptorhamphus Bunge, 4: 328";2148
+"Sterigmostemum Bieb., 1: 340";2149
+"Sternbergia Waldst. & Kit., 5: 76";2150
+"Steveniella Schlechter, 5: 337";2151
+"Stipa L., 5: 247";2152
+"Stipagrostis Nees, 5: 254";2153
+"Strangweia Bertol., 5: 44";2154
+"Stratiotes L., 5: 4";2155
+"Streptopus Michx, 5: 70";2156
+"Strophiostoma Turez., 3";2157
+"Struthiopteris Willd., 1: 26";2158
+"Sturmia Reichenb. non Hoppe, 5";2159
+"Stypa auct., 5";2160
+"STYRACACEAE, 3: 52";2161
+"Styrax L., 3: 52";2162
+"Suaeda Forskal ex Scop., 1: 123";2163
+"Subularia L., 1: 403";2164
+"Succisa Haller, 4: 59";2165
+"Succisella G. Beck, 4: 60";2166
+"Succowia Medicus, 1: 413";2167
+"Suffrenia Bellardi, 2";2168
+"Swertia L., 3: 67";2169
+"Swida Opiz, 2: 313";2170
+"Symaethis auct., 5";2171
+"Symphoricarpos Duh., 4: 45";2172
+"Symphyandra A. DC., 4: 93";2173
+"Symphytum L., 3: 103";2174
+"Syringa L., 3: 54";2175
+"Syrenia Andrz., 1: 335";2176
+"Taeniatherum Nevski, 5: 205";2177
+"Tagetes L., 4: 144";2178
+"Talinum paniculatum (Jacq.) Gaermer, 1: 137";2179
+"TAMARICACEAE, 2: 292";2180
+"Tamarix L., 2: 292";2181
+"Tamus L., 5: 85";2182
+"Tanacetum L., 4: 169";2183
+"Tapeinanthus Herbert, non Blume, 5";2184
+"Taraxacum Weber, 4: 332";2185
+"Tauscheria Fischer ex DC., 1: 325";2186
+"TAXACEAE, 1: 48";2187
+"TAXODIACEAE, 1: 44";2188
+"Taxodium L.C.M.Richard, 1: 44";2189
+"Taxus, L., 1: 48";2190
+"Tectaria caudata Cav., 1: 24";2191
+"Teesdalia R.Br., 1: 383";2192
+"Teesdaliopsis (Willk.) Gand., 1: 390";2193
+"Telekia Baumg., 4: 138";2194
+"Telephium L., 1: 188";2195
+"Teline Medicus, 2: 93";2196
+"Tellima R.Br., 1: 459";2197
+"Telmatophace Schleiden, 5";2198
+"Tetraclinis Masters, 1: 46";2199
+"Tetracme Bunge, 1: 342";2200
+"Tetradiclis Steven ex Bieb., 2: 205";2201
+"Tetragonia L., 1: 137";2202
+"TETRAGONIACEAE, 1: 137";2203
+"Tetragonolobus Scop., 2: 176";2204
+"Tetrahit Adanson, 3";2205
+"Teucrium L., 3: 129";2206
+"Thalictrum L., 1: 290";2207
+"Thapsia L., 2: 370";2208
+"THELIGONACEAE, 2: 312";2209
+"Theligonum L., 2: 312";2210
+"Thellungiella O.E.Schulz, 1: 323";2211
+"Thelycrania (Dumort.) Fourr., 2: 313";2212
+"THELYPTERIDACEAE, 1: 17";2213
+"Thelypteris Schmidel, 1: 17";2214
+"Thermopsis R. Br., 2: 85";2215
+"Thesium L., 1: 83";2216
+"Thladiantha Bunge, 2: 297";2217
+"Thlaspi L., 1: 384";2218
+"Thorea Rouy, 5";2219
+"Thorella Briq., 2: 354";2220
+"Thrincia Roth, 4";2221
+"Thuja L., 1: 46";2222
+"Thymbra L., 3: 170";2223
+"Thymelaea Miller, 2: 258";2224
+"THYMELAEACEAE, 2: 256";2225
+"Thymus L., 3: 172";2226
+"Tilia L., 2: 247";2227
+"Tillaea L., 1: 423";2228
+"TILLIACEAE, 2: 247";2229
+"Tinea Biv. non Sprengel, 5";2230
+"Tinguarra Parl., 2";2231
+"Tiniaria japonica (Houtt.) Hedberg, 1: 98";2232
+"Tithymalus Seguier, 2";2233
+"Tofieldia Hudson, 5: 15";2234
+"Tolmiea Torrey & A.Gray, 1: 459";2235
+"Tolpis Adanson, 4: 306";2236
+"Tommasinia Bertol., 2";2237
+"Tordylium L., 2: 367";2238
+"Torilis Adanson, 2: 371";2239
+"Torularia (Cosson) O.E.Schulz, 1: 339";2240
+"Tournefortia L., 3";2241
+"Tozzia L., 3: 257";2242
+"Trachelium L., 4: 94";2243
+"Trachomitum Woodson, 3: 68";2244
+"Trachycarpus H. A. Wendl., 5: 267";2245
+"Trachynia Link, 5: 190";2246
+"Trachystemon D. Don, 3: 109";2247
+"Tradescantia L., 5: 116";2248
+"Tragiopsis Pomel, non Karsten, 2";2249
+"Tragopogon L., 4: 322";2250
+"Tragus Haller, 5: 260";2251
+"Trapa L., 2: 303";2252
+"TRAPACEAE, 2: 303";2253
+"Traunsteinera Reichenb., 5: 337";2254
+"Tremastelma Rafin., 4: 74";2255
+"Triadenia Spach, 2: 261";2256
+"Tribulus L., 2: 205";2257
+"Trichera Schrader ex Roemer & Schultes, 4";2258
+"Tricholaena Schrader, 5: 264";2259
+"Trichomanes L., 1: 15";2260
+"Trichonema Ker-Gawler, 5";2261
+"Trichophorum Pers., 5: 277";2262
+"Trientalis L., 3: 27";2263
+"Trifolium L., 2: 157";2264
+"Triglochin L., 5: 6";2265
+"Trigonella L., 2: 150";2266
+"Trigonotis Steven, 3: 118";2267
+"Triguera Cav., 3: 200";2268
+"Trimorpha Cass., 4";2269
+"Trinia Hoffm., 2: 350";2270
+"Triodia R. Br., 5";2271
+"Triplachne Link, 5: 232";2272
+"Tripleurospermum Schultz Bip., 4: 165";2273
+"Tripogandra Rafin., 5: 117";2274
+"Tripolium Nees, 4";2275
+"Trisetaria Forskal, 5: 224";2276
+"Trisetum Pers., 5: 220";2277
+"Triticum L., 5: 202";2278
+"Tritonia Ker-Gawler, 5: 100";2279
+"Trixago Steven, non Haller, 3";2280
+"Trochiscanthes Koch, 2: 342";2281
+"Trollius L., 1: 253";2282
+"TROPAEOLACEAE, 2: 204";2283
+"Tropaeolum L., 2: 204";2284
+"Tsuga (Antoine) Carriere, 1: 38";2285
+"Tuberaria (Dunal) Spach, 2: 285";2286
+"Tulipa L., 5: 28";2287
+"Tunica auct., 1: 224";2288
+"Turgenia Hoffm., 2: 372";2289
+"Turgeniopsis Boiss., 2: 372";2290
+"Turritis L., 1: 352";2291
+"Tussilago L., 4: 186";2292
+"Typha L., 5: 275";2293
+"TYPHACEAE, 5: 275";2294
+"Typhoides Moeneh, 5: 244";2295
+"Tyrimnus (Cass.) Cass., 4: 244";2296
+"Udora Nutt., 5";2297
+"Ulex L., 2: 102";2298
+"ULMACEAE, 1: 76";2299
+"Ulmaria Miller, 2";2300
+"Ulmus L., 1: 76";2301
+"UMBELLIFERAE, 2: 315";2302
+"Umbilicus DC., 1: 423";2303
+"Urginea Steinh., 5: 40";2304
+"Uropetalum Ker-Gawler, 5";2305
+"Urospermum Scop., 4: 308";2306
+"Urtica L., 1: 79";2307
+"URTICACEAE, 1: 79";2308
+"Utricularia L., 3: 296";2309
+"Vaccaria Medicus, 1: 224";2310
+"Vaccinium L., 3: 12";2311
+"Vahlodea Fries, 5: 227";2312
+"Valantia L., 4: 37";2313
+"Valeriana L., 4: 52";2314
+"VALERIANACEAE, 4: 48";2315
+"Valerianella Miller, 4: 48";2316
+"Vallisneria L., 5: 5";2317
+"Vandenboschia Copel., 1: 15";2318
+"Velezia L., 1: 246";2319
+"Vella L., 1: 413";2320
+"Ventenata Koeler, 5: 217";2321
+"Veratrum L., 5: 16";2322
+"Verbascum L., 3: 205";2323
+"Verbena L., 3: 122";2324
+"VERBENACEAE, 3: 122";2325
+"Verbesina L., 4: 142";2326
+"Veronica L., 3: 242";2327
+"Vesicaria sinuata (L.) Cav., 1: 370, 1: 371";2328
+"Viburnum L., 4: 45";2329
+"Vicia L., 2: 129";2330
+"Vigna Savi, 2: 128";2331
+"Vinca L., 3: 69";2332
+"Vincetoxicum N. M. Wolf, 3: 71";2333
+"Viola L., 2: 270";2334
+"VIOLACEAE, 2: 270";2335
+"Virga Hill, 4";2336
+"Viscaria Bernh., 1: 189";2337
+"Viscum L., 1:72";2338
+"VITACEAE, 2: 246";2339
+"Vitaliana Sesler, 3: 20";2340
+"Vitex L., 3: 122";2341
+"Vitis L., 2: 246";2342
+"Vogelia paniculata (L.) Hornem., 1: 381";2343
+"Volutarella Cass., 4";2344
+"Volutaria Cass., 4: 253";2345
+"Volvulus Medicus, 3";2346
+"Vulpia C. C. Gmelin, 5: 154";2347
+"Vulpiella (Trabut) Burollet, 5: 159";2348
+"Wagenitzia Dostal, 4: 301";2349
+"Wahlbergella angustiflora Rupr., 1: 201";2350
+"Wahlenbergia Schrader ex Roth, 4: 98";2351
+"Waldsteinia Willd., 2: 36";2352
+"Wangenheimia Moench, 5: 157";2353
+"Washingtonia H. A. Wendl., 5: 267";2354
+"Weingaertneria Bernh., 5";2355
+"Wiedemannia Fischer & C. A. Meyer, 3: 147";2356
+"Wigandia Kunth, 3: 83";2357
+"Wilckia Scop., 1: 337";2358
+"Willemetia Cass., non Willemeta Cothenius, 4: 343";2359
+"Wisteria Nutt., 2: 107";2360
+"Withania Pauquy, 3: 195";2361
+"Wolffia Horkel ex Schleiden, 5: 273";2362
+"Woodsia R.Br., 1: 25";2363
+"WOODSIACEAE, 1: 23";2364
+"Woodwardia Sm., 1: 31";2365
+"Wulfenia Jacq., 3: 241";2366
+"Xanthium L., 4: 143";2367
+"Xatardia Meissner, 2: 341";2368
+"Xeranthemum L., 4: 211";2369
+"Ximenesia Cav., 4";2370
+"Xiphion Miller, 5: 87";2371
+"Yucca L., 5: 75";2372
+"Zacintha Miller, 4";2373
+"Zahlbrucknera paradoxa (Sternb.) Reichenb., 1: 456";2374
+"Zannichellia L., 5: 13";2375
+"ZANNICHELLIACEAE, 5: 12";2376
+"Zantedeschia Sprengel, 5: 269";2377
+"Zea L., 5: 267";2378
+"Zebrina Schnizlein, 5";2379
+"Zelkova Spach, 1: 77";2380
+"Zerna auct., non Panzer, 5";2381
+"Zigadenus L. C. M. Richard, 5: 16";2382
+"Zingeria P. Smirnov, 5: 246";2383
+"ZINGIBERACEAE, 5: 324";2384
+"Zizania L., 5: 260";2385
+"Ziziphora L., 3: 163";2386
+"Ziziphus Miller, 2: 243";2387
+"Zollikoferia DC., non Nees, 4: 326";2388
+"Zosima Hoffm., 2: 364";2389
+"Zostera L., 5: 12";2390
+"ZOSTERACEAE, 5: 12";2391
+"Zwackhia Sendtner, non Korber, 3";2392
+"ZYGOPHYLLACEAE, 2: 204";2393
+"Zygophyllum L., 2: 205";2394

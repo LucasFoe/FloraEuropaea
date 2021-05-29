@@ -1,0 +1,9 @@
+    10   Text Window
+    20   Plant Index
+    30   Filter for Plant Index
+    40   Text Browser Command Buttons
+    50   Determination Key
+    60   Key Navigation
+    70   Glossary Index
+    80   Filter for Glossary Index
+    90   Grossary Text
