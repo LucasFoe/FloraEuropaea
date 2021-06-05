@@ -9,6 +9,24 @@
     <MyType>WindowsForms</MyType>
     <AssemblyName>GUIFE</AssemblyName>
     <ApplicationIcon>FE.ico</ApplicationIcon>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Copyright>foerderer Datenanalyse &amp; Informatik GmbH</Copyright>
+    <AssemblyVersion>2.0.1.0</AssemblyVersion>
+    <FileVersion>2.0.1.0</FileVersion>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <PackageIcon>FE.ico</PackageIcon>
+    <PackageIconUrl />
+    <Version>2.0.1</Version>
+    <Company>foerderer Datenanalyse &amp; Informatik GmbH</Company>
+    <Description>GUIFE is an alternative front end for Flora Europaea on CD-ROM. Flora Europaea on CD-ROM is edited by The Flora Europaea Editorial Committee, prepared for publication by Siebe Jorna, published June 2001 (CD-ROM, ISBN-13: 780521778114 | ISBN-10: 0521778115, Cambridge University Press). 
+
+GUIFE only works with the original data and software distributed by Cambridge University Press.</Description>
+    <RepositoryType>github</RepositoryType>
+    <PackageProjectUrl>https://www.foerderer.ch/downloads.html</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/LucasFoe/FloraEuropaea</RepositoryUrl>
+    <PackageTags>Flora Europaea GUI Tutin</PackageTags>
+    <PackageReleaseNotes>Based on .Net Core 5</PackageReleaseNotes>
+    <PackageLicenseExpression>foerderer Datenanalyse &amp; Informatik GmbH</PackageLicenseExpression>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -53,10 +71,16 @@
     <None Update="floraeuropaea.chm">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="foerd.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="GUIFE.chm">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="GUIFEInfo.pdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="GUIFEInfo.rtf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="My Project\Application.myapp">
@@ -65,6 +89,10 @@
     </None>
     <None Update="user.ini">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\..\NetProjects\FloraEuropaea\FloraEuropaea\FE.ico">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
     </None>
   </ItemGroup>
 
