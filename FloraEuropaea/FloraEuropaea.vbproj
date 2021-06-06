@@ -25,8 +25,9 @@ GUIFE only works with the original data and software distributed by Cambridge Un
     <PackageProjectUrl>https://www.foerderer.ch/downloads.html</PackageProjectUrl>
     <RepositoryUrl>https://github.com/LucasFoe/FloraEuropaea</RepositoryUrl>
     <PackageTags>Flora Europaea GUI Tutin</PackageTags>
-    <PackageReleaseNotes>Based on .Net Core 5</PackageReleaseNotes>
-    <PackageLicenseExpression>foerderer Datenanalyse &amp; Informatik GmbH</PackageLicenseExpression>
+    <PackageReleaseNotes>Based on .NET 5</PackageReleaseNotes>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -91,6 +92,10 @@ GUIFE only works with the original data and software distributed by Cambridge Un
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="..\..\..\NetProjects\FloraEuropaea\FloraEuropaea\FE.ico">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\LICENSE">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>

@@ -1,5 +1,16 @@
 Public NotInheritable Class AboutBoxLF
 
+    Private opt As String = "About"
+
+    Public Property OptProperty As String
+        Get
+            Return opt
+        End Get
+        Set(value As String)
+            opt = value
+        End Set
+    End Property
+
     Private Sub AboutBox1_Load(ByVal sender As System.Object, ByVal e As EventArgs) Handles MyBase.Load
         ' Set the title of the form.
         Dim ApplicationTitle As String
@@ -19,7 +30,7 @@ Public NotInheritable Class AboutBoxLF
         Me.TextBoxDescription.Text = My.Application.Info.Description
     End Sub
 
-    Private Sub OKButton_Click(ByVal sender As System.Object, ByVal e As EventArgs) Handles OKButton.Click
+    Private Sub OKButton_Click(ByVal sender As System.Object, ByVal e As EventArgs)
         FEWeb.Close()
         Me.Close()
     End Sub
@@ -42,6 +53,5 @@ Public NotInheritable Class AboutBoxLF
     Private Sub AboutBox1_LostFocus(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.LostFocus
         FEWeb.Close()
     End Sub
-
 
 End Class

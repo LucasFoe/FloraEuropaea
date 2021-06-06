@@ -147,7 +147,12 @@ Module LFUtil
     ' Returns regular expression for tolerant search of s
     ' s: search expression
     Function lf_getRegExp(ByVal s As String) As String
-        Dim tplrexp As String = "$$X$", rexp As String = ""
+        Dim tplrexp As String, rexp As String = ""
+        If s.Contains(" ") Then
+            tplrexp = "$$X$"
+        Else
+            tplrexp = "$$X$\s"
+        End If
         Dim p As String = "[\s\.,():\-;?]*"
         rexp = Util.Translate(s, ".-,:()?", "          ")
         rexp = Util.Translate(rexp, "üצהÜײִיאטְָֹביתם", "-----------------")

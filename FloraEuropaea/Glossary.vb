@@ -86,27 +86,35 @@ Public Class Glossary
 
         Me.bytes = File.ReadAllBytes(sett.FloraExe)
         text = System.Text.Encoding.Default.GetString(bytes)
+        Dim kf3 As String = "\par \plain\lang2057\f3\fs28\b"
+        Dim kf2 As String = "\par \plain\lang2057\f2\fs28\b"
+        Dim kf3new As String = "{f3}"
+        text = text.Replace(kf3, kf3new).Replace(kf2, kf3new)
+        Dim kf3len = kf3.Length
+        Dim kf3newlen = kf3new.Length
 
-        ' Line in Text:
-        ' \par \plain\lang2057\f3\fs28\b Acicular -a.\tab \plain\lang2057\f3\fs28  Slenderly needle-shaped.\tab 
+        pos1 = lf_Instr(text, kf3new, startpos)
+        If pos1 = 0 Then
+            pos1 = text.IndexOf(kf3new, CInt(startpos))
+            text = text.Substring(pos1)
+        End If
+        pos2 = text.LastIndexOf(kf3new)
+        text = text.Left(pos2 + 500)
         startpos = 1
         Do
-            pos1 = lf_Instr(text, "\par \plain\lang2057\f3\fs28\b", startpos)
-            If pos1 = 0 Then
-                pos1 = lf_Instr(text, "\par \plain\lang2057\f2\fs28\b", startpos)
-            End If
+            pos1 = lf_Instr(text, kf3new, startpos)
             If pos1 > 0 Then
-                startpos = pos1 + 31
+                startpos = pos1 + kf3newlen + 1
                 pos2 = lf_Instr(text, "\tab", startpos)
                 startpos = pos2 + 5
                 If pos2 > pos1 Then
-                    t = Trim(lf_GetSubstr(text, pos1 + 31, pos2 - 1))
-                    startpos = pos2 + 31
+                    t = Trim(lf_GetSubstr(text, pos1 + kf3newlen + 1, pos2 - 1))
+                    startpos = pos2 + kf3newlen + 1
                     pos3 = lf_Instr(text, "\tab", startpos)
                     If pos3 = 0 Then
                         pos3 = text.Length + 1
                     End If
-                    d = Trim(lf_GetSubstr(text, pos2 + 30, pos3 - 1))
+                    d = Trim(lf_GetSubstr(text, pos2 + kf3newlen, pos3 - 1))
                     startpos = pos3 + 5
                     Dim el As New GlossaryElement(t, d)
                     gl.Add(el)
@@ -124,6 +132,7 @@ Public Class Glossary
         glfilt = gl
         filt = ""
         filteronflag = False
+
     End Sub
 
     Public Sub setfilterOn(ByVal flt As String)

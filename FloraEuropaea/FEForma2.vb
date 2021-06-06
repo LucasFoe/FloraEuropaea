@@ -240,6 +240,8 @@ Public Class FEForma2
         ' This call is required by the Windows Form Designer.
         InitializeComponent()
 
+        Me.DataGridView1.DoubleBuffered(True)
+
         ' Add any initialization after the InitializeComponent() call.
         mSwitchCellStyle = New DataGridViewCellStyle(DataGridView1.DefaultCellStyle)
         mPrevNextCellStyle = New DataGridViewCellStyle(DataGridView1.DefaultCellStyle)

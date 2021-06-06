@@ -174,7 +174,7 @@ Public Class FEForma1
 
             lFirstMatchPosition = matches(0).Index
             For Each a_match As Match In matches
-                RichTextBox1.Select(a_match.Index, a_match.Length)
+                RichTextBox1.Select(a_match.Index, a_match.Value.TrimEnd().Length)
                 RichTextBox1.SelectionBackColor = lColor
                 iMatchCount = iMatchCount + 1
             Next a_match
@@ -211,7 +211,79 @@ Public Class FEForma1
 
     End Sub
 
+    Public Sub LbIndexActionNew()
+        Dim itemval As String, taxval As String, volval As String
+        Dim pos As Integer
+        resetmessage()
+        If lbIndex.SelectedValue Is Nothing Then
+            lbIndex.SelectedIndex = 0
+        End If
+        itemval = pi.GetValue(lbIndex.SelectedIndex)
+        ' Example values
+        ' "Abies Miller, 1: 37"
+        ' "Acrostichum thalictroides L., 1: 11"
+        ' "Aeonium Webb & Berth., 1: 429"
+        If Not Util.IsEmpty(itemval) Then
+            pos = itemval.LastIndexOf(",")
+            If pos > -1 Then
+                taxval = itemval.Left(pos)
+                volval = itemval.Substring(pos + 1)
+                ht.CurrentVolume = Util.GetRegexFirstMatch(volval, "^(\d)\s*:")
+                cbSelVolum.SelectedItem = ht.CurrentVolume
+                ht.CurrentPage = Util.GetRegexFirstMatch(volval, "^\d\s*:\s*(\d+)")
+                LoadText(False)
+
+                If Not taxval.IsEmpty Then
+                    Me.currentSpecies = ""
+
+                    Dim nfound As Long
+
+                    Me.currentTaxon = Util.GetRegexFirstMatch(taxval, "^(\S+)\s*").Trim
+                    Me.currentSpecies = ""
+
+                    nfound = HighlightWords(RichTextBox1, Me.currentTaxon, Color.Yellow)
+                    If nfound = 0 Then
+                        Me.currentTaxon = sett.GetMetaSyn(Me.currentTaxon)
+                        nfound = HighlightWords(RichTextBox1, Me.currentTaxon, Color.Yellow)
+                    End If
+                    ScrollToLineOfFirstMatch(RichTextBox1, lFirstMatchPosition)
+
+                    Try
+                        pi.fillcontrol2(lbSpec, taxval, ht.CurrentVolume)
+                    Catch ex As Exception
+                        setmessage("Status Message: ", ex.ToString)
+                    End Try
+
+                    RichTextBox1.Show()
+                    setmessage("Status Message: ", nfound & " entries found")
+
+                End If
+
+                lbSpec.SelectedIndex = -1
+                If Me.startFilterFlag And Not Util.IsEmpty(Me.speciesflt) Then
+                    Dim i As Integer = 0, flt As String, v2 As String
+                    flt = Me.speciesflt.Trim.ToUpper
+                    For Each r As DataRowView In lbSpec.Items
+                        v2 = r(0)
+                        v2 = v2.Trim.ToUpper
+                        If v2.StartsWith(flt) Then
+                            lbSpec.SelectedIndex = i
+                            LbSpecAction()
+                            Exit For
+                        End If
+                        i = i + 1
+                    Next
+                End If
+
+            End If
+        End If
+    End Sub
+
     Public Sub LbIndexAction()
+
+        LbIndexActionNew()
+        Exit Sub
+
         Dim ival As String
         Dim pos1 As Long
         Dim pos2 As Long

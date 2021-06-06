@@ -246,6 +246,8 @@ Module StartMain
 
         AnaCmd()
 
+        WaitCursorOn()
+
         ' Log File initialisieren
         log = New Logger(True)
 
@@ -296,6 +298,8 @@ Module StartMain
             ' Index Informationen aus DB übernehmen
             pi = New PlantIndex(connIndex)
         End If
+
+        WaitCursorOff()
 
         If StartMain.CmdSearchGenus.Length > 0 Or StartMain.CmdSearchSpecies.Length > 0 Then
             FEForma1.SetStartFlt(StartMain.CmdSearchGenus, StartMain.CmdSearchSpecies)
