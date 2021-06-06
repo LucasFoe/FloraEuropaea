@@ -72,6 +72,8 @@ Partial Class FEForma1
         Me.MaximizeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MinimizeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.SmallToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ShowMinimizeMaximizeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ShowHelpButtonToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.HelpToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.HelpToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripSeparator2 = New System.Windows.Forms.ToolStripSeparator()
@@ -91,60 +93,60 @@ Partial Class FEForma1
         Me.SplitContainer2 = New System.Windows.Forms.SplitContainer()
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.SplitContainer3 = New System.Windows.Forms.SplitContainer()
-        Me.GroupBox1.SuspendLayout
-        Me.StatusStrip1.SuspendLayout
-        Me.MenuStrip1.SuspendLayout
-        CType(Me.SplitContainer1,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.SplitContainer1.Panel1.SuspendLayout
-        Me.SplitContainer1.Panel2.SuspendLayout
-        Me.SplitContainer1.SuspendLayout
-        CType(Me.SplitContainer2,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.SplitContainer2.Panel1.SuspendLayout
-        Me.SplitContainer2.Panel2.SuspendLayout
-        Me.SplitContainer2.SuspendLayout
-        Me.Panel1.SuspendLayout
-        CType(Me.SplitContainer3,System.ComponentModel.ISupportInitialize).BeginInit
-        Me.SplitContainer3.Panel1.SuspendLayout
-        Me.SplitContainer3.Panel2.SuspendLayout
-        Me.SplitContainer3.SuspendLayout
-        Me.SuspendLayout
+        Me.GroupBox1.SuspendLayout()
+        Me.StatusStrip1.SuspendLayout()
+        Me.MenuStrip1.SuspendLayout()
+        CType(Me.SplitContainer1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.SplitContainer1.Panel1.SuspendLayout()
+        Me.SplitContainer1.Panel2.SuspendLayout()
+        Me.SplitContainer1.SuspendLayout()
+        CType(Me.SplitContainer2, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.SplitContainer2.Panel1.SuspendLayout()
+        Me.SplitContainer2.Panel2.SuspendLayout()
+        Me.SplitContainer2.SuspendLayout()
+        Me.Panel1.SuspendLayout()
+        CType(Me.SplitContainer3, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.SplitContainer3.Panel1.SuspendLayout()
+        Me.SplitContainer3.Panel2.SuspendLayout()
+        Me.SplitContainer3.SuspendLayout()
+        Me.SuspendLayout()
         '
         'RichTextBox1
         '
-        Me.RichTextBox1.AutoWordSelection = true
+        Me.RichTextBox1.AutoWordSelection = True
         Me.RichTextBox1.BackColor = System.Drawing.SystemColors.Window
-        Me.RichTextBox1.DetectUrls = false
+        Me.RichTextBox1.DetectUrls = False
         resources.ApplyResources(Me.RichTextBox1, "RichTextBox1")
         Me.HelpProvider1.SetHelpKeyword(Me.RichTextBox1, resources.GetString("RichTextBox1.HelpKeyword"))
-        Me.HelpProvider1.SetHelpNavigator(Me.RichTextBox1, CType(resources.GetObject("RichTextBox1.HelpNavigator"),System.Windows.Forms.HelpNavigator))
+        Me.HelpProvider1.SetHelpNavigator(Me.RichTextBox1, CType(resources.GetObject("RichTextBox1.HelpNavigator"), System.Windows.Forms.HelpNavigator))
         Me.RichTextBox1.Name = "RichTextBox1"
-        Me.RichTextBox1.ReadOnly = true
-        Me.HelpProvider1.SetShowHelp(Me.RichTextBox1, CType(resources.GetObject("RichTextBox1.ShowHelp"),Boolean))
-        Me.RichTextBox1.TabStop = false
+        Me.RichTextBox1.ReadOnly = True
+        Me.HelpProvider1.SetShowHelp(Me.RichTextBox1, CType(resources.GetObject("RichTextBox1.ShowHelp"), Boolean))
+        Me.RichTextBox1.TabStop = False
         '
         'btBack
         '
         resources.ApplyResources(Me.btBack, "btBack")
         Me.btBack.Name = "btBack"
-        Me.btBack.UseVisualStyleBackColor = true
+        Me.btBack.UseVisualStyleBackColor = True
         '
         'btBegin
         '
         resources.ApplyResources(Me.btBegin, "btBegin")
         Me.btBegin.Name = "btBegin"
-        Me.btBegin.UseVisualStyleBackColor = true
+        Me.btBegin.UseVisualStyleBackColor = True
         '
         'btNext
         '
         resources.ApplyResources(Me.btNext, "btNext")
         Me.btNext.Name = "btNext"
-        Me.btNext.UseVisualStyleBackColor = true
+        Me.btNext.UseVisualStyleBackColor = True
         '
         'btEnd
         '
         resources.ApplyResources(Me.btEnd, "btEnd")
         Me.btEnd.Name = "btEnd"
-        Me.btEnd.UseVisualStyleBackColor = true
+        Me.btEnd.UseVisualStyleBackColor = True
         '
         'GroupBox1
         '
@@ -166,34 +168,34 @@ Partial Class FEForma1
         Me.GroupBox1.Controls.Add(Me.StatusStrip1)
         resources.ApplyResources(Me.GroupBox1, "GroupBox1")
         Me.HelpProvider1.SetHelpKeyword(Me.GroupBox1, resources.GetString("GroupBox1.HelpKeyword"))
-        Me.HelpProvider1.SetHelpNavigator(Me.GroupBox1, CType(resources.GetObject("GroupBox1.HelpNavigator"),System.Windows.Forms.HelpNavigator))
+        Me.HelpProvider1.SetHelpNavigator(Me.GroupBox1, CType(resources.GetObject("GroupBox1.HelpNavigator"), System.Windows.Forms.HelpNavigator))
         Me.GroupBox1.Name = "GroupBox1"
-        Me.HelpProvider1.SetShowHelp(Me.GroupBox1, CType(resources.GetObject("GroupBox1.ShowHelp"),Boolean))
-        Me.GroupBox1.TabStop = false
+        Me.HelpProvider1.SetShowHelp(Me.GroupBox1, CType(resources.GetObject("GroupBox1.ShowHelp"), Boolean))
+        Me.GroupBox1.TabStop = False
         '
         'btFindInPage
         '
         resources.ApplyResources(Me.btFindInPage, "btFindInPage")
         Me.btFindInPage.Name = "btFindInPage"
-        Me.btFindInPage.UseVisualStyleBackColor = true
+        Me.btFindInPage.UseVisualStyleBackColor = True
         '
         'btKey
         '
         resources.ApplyResources(Me.btKey, "btKey")
         Me.btKey.Name = "btKey"
-        Me.btKey.UseVisualStyleBackColor = true
+        Me.btKey.UseVisualStyleBackColor = True
         '
         'btGlossary
         '
         resources.ApplyResources(Me.btGlossary, "btGlossary")
         Me.btGlossary.Name = "btGlossary"
-        Me.btGlossary.UseVisualStyleBackColor = true
+        Me.btGlossary.UseVisualStyleBackColor = True
         '
         'btGoto
         '
         resources.ApplyResources(Me.btGoto, "btGoto")
         Me.btGoto.Name = "btGoto"
-        Me.btGoto.UseVisualStyleBackColor = true
+        Me.btGoto.UseVisualStyleBackColor = True
         '
         'lbPage
         '
@@ -213,25 +215,25 @@ Partial Class FEForma1
         'cbSearchresult
         '
         resources.ApplyResources(Me.cbSearchresult, "cbSearchresult")
-        Me.cbSearchresult.FormattingEnabled = true
+        Me.cbSearchresult.FormattingEnabled = True
         Me.cbSearchresult.Name = "cbSearchresult"
-        Me.cbSearchresult.Sorted = true
+        Me.cbSearchresult.Sorted = True
         '
         'btSearch
         '
         resources.ApplyResources(Me.btSearch, "btSearch")
         Me.btSearch.Name = "btSearch"
-        Me.btSearch.UseVisualStyleBackColor = true
+        Me.btSearch.UseVisualStyleBackColor = True
         '
         'btQuit
         '
         resources.ApplyResources(Me.btQuit, "btQuit")
         Me.btQuit.Name = "btQuit"
-        Me.btQuit.UseVisualStyleBackColor = true
+        Me.btQuit.UseVisualStyleBackColor = True
         '
         'cbSelVolum
         '
-        Me.cbSelVolum.FormattingEnabled = true
+        Me.cbSelVolum.FormattingEnabled = True
         Me.cbSelVolum.Items.AddRange(New Object() {resources.GetString("cbSelVolum.Items"), resources.GetString("cbSelVolum.Items1"), resources.GetString("cbSelVolum.Items2"), resources.GetString("cbSelVolum.Items3"), resources.GetString("cbSelVolum.Items4")})
         resources.ApplyResources(Me.cbSelVolum, "cbSelVolum")
         Me.cbSelVolum.Name = "cbSelVolum"
@@ -386,7 +388,7 @@ Partial Class FEForma1
         '
         'WindowToolStripMenuItem
         '
-        Me.WindowToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MaximizeToolStripMenuItem, Me.MinimizeToolStripMenuItem, Me.SmallToolStripMenuItem})
+        Me.WindowToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MaximizeToolStripMenuItem, Me.MinimizeToolStripMenuItem, Me.SmallToolStripMenuItem, Me.ShowMinimizeMaximizeToolStripMenuItem, Me.ShowHelpButtonToolStripMenuItem})
         Me.WindowToolStripMenuItem.Name = "WindowToolStripMenuItem"
         resources.ApplyResources(Me.WindowToolStripMenuItem, "WindowToolStripMenuItem")
         '
@@ -404,6 +406,16 @@ Partial Class FEForma1
         '
         Me.SmallToolStripMenuItem.Name = "SmallToolStripMenuItem"
         resources.ApplyResources(Me.SmallToolStripMenuItem, "SmallToolStripMenuItem")
+        '
+        'ShowMinimizeMaximizeToolStripMenuItem
+        '
+        Me.ShowMinimizeMaximizeToolStripMenuItem.Name = "ShowMinimizeMaximizeToolStripMenuItem"
+        resources.ApplyResources(Me.ShowMinimizeMaximizeToolStripMenuItem, "ShowMinimizeMaximizeToolStripMenuItem")
+        '
+        'ShowHelpButtonToolStripMenuItem
+        '
+        resources.ApplyResources(Me.ShowHelpButtonToolStripMenuItem, "ShowHelpButtonToolStripMenuItem")
+        Me.ShowHelpButtonToolStripMenuItem.Name = "ShowHelpButtonToolStripMenuItem"
         '
         'HelpToolStripMenuItem
         '
@@ -550,11 +562,11 @@ Partial Class FEForma1
         Me.Controls.Add(Me.SplitContainer1)
         Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.MenuStrip1)
-        Me.HelpButton = true
-        Me.IsMdiContainer = true
+        Me.HelpButton = True
+        Me.IsMdiContainer = True
         Me.MainMenuStrip = Me.MenuStrip1
-        Me.MaximizeBox = false
-        Me.MinimizeBox = false
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
         Me.Name = "FEForma1"
         Me.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show
         Me.GroupBox1.ResumeLayout(false)
@@ -659,4 +671,6 @@ End Sub
     Friend WithEvents MaximizeToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents MinimizeToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents SmallToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents ShowMinimizeMaximizeToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents ShowHelpButtonToolStripMenuItem As ToolStripMenuItem
 End Class

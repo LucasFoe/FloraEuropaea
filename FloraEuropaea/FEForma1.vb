@@ -1043,4 +1043,20 @@ Public Class FEForma1
         Dim h As Integer = Me.MaximizedBounds.Height / 2
         Me.Size = New Size(w, h)
     End Sub
+
+    Private Sub ShowMinimizeMaximizeToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ShowMinimizeMaximizeToolStripMenuItem.Click
+        Me.MinimizeBox = True
+        Me.MaximizeBox = True
+        Me.HelpButton = False
+        Me.ShowMinimizeMaximizeToolStripMenuItem.Enabled = False
+        Me.ShowHelpButtonToolStripMenuItem.Enabled = True
+    End Sub
+
+    Private Sub ShowHelpButtonToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ShowHelpButtonToolStripMenuItem.Click
+        Me.MinimizeBox = False
+        Me.MaximizeBox = False
+        Me.HelpButton = True
+        Me.ShowMinimizeMaximizeToolStripMenuItem.Enabled = True
+        Me.ShowHelpButtonToolStripMenuItem.Enabled = False
+    End Sub
 End Class
